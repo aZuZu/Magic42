@@ -1,0 +1,100 @@
+{
+  "configs": {
+    "DEFAULT": {
+      "table": "table.results3 tr",
+      "numbers": "ul.displayball > li:not(.dbx)",
+      "method": "POST",
+      "params": {
+        "mode": "month",
+        "year_month": "{yyyy-MM}"
+      }
+    },
+    "LOTTO_GERMANY": {
+      "table": "table.results, tr[bgcolor=#FFFADD]",
+      "params": {
+        "tryb": "rokmsc",
+        "_month": "{M}",
+        "_year": "{yyyy}"
+      }
+    },
+    "PRIMITIVA_SPAIN": {
+      "table": "table.results, tr[bgcolor=#FFFADD]",
+      "numbers": "ul.displayball:first-child > li:not(.dbx), ul.displayball:last-child > li:not(.dbx)",
+      "params": {
+        "tryb": "rokmsc",
+        "_month": "{M}",
+        "_year": "{yyyy}"
+      }
+    },
+    "LOTTO_FINLAND": {
+      "table": "tr:has(.xgame)",
+      "numbers": "ul.displayball:first-child > li:not(.dbx)",
+      "params": {
+        "tryb": "rokmsc",
+        "_month": "{M}",
+        "_year": "{yyyy}"
+      }
+    },
+    "SUPER_LOTO_UKRAINE": {
+      "table": "tr:has(.xgame)",
+      "params": {
+        "tryb": "rokmsc",
+        "_month": "{M}",
+        "_year": "{yyyy}"
+      }
+    },
+    "LOTTO_SWEDEN": {
+      "table": "tr:has(.xgame), tr:has(.res)",
+      "numbers": "ul.displayball:first-child > li:not(.dbx)",
+      "params": {
+        "tryb": "rokmsc",
+        "_month": "{M}",
+        "_year": "{yyyy}"
+      }
+    },
+    "MEGA_SENA_BRAZIL": {
+      "table": "tr:has(.xgame)",
+      "params": {
+        "tryb": "xmiesiac",
+        "data_m": "{M}",
+        "data_r": "{yyyy}"
+      }
+    },
+    "LOTO_SLOVENIA": {
+      "table": ".xgame, tr[bgcolor=#F4E591]",
+      "params": {
+        "tryb": "xmiesiac",
+        "data_m": "{M}",
+        "data_r": "{yyyy}"
+      }
+    },
+    "LOTTO_IRELAND": {
+      "table": ".okno, tr[bgcolor=#FFFADc]",
+      "params": {
+        "data_msc": "{M}",
+        "data_rok": "{yyyy}"
+      }
+    },
+    "EUROMILLIONS": {
+      "table": "div.xgm2 > div",
+      "params": {
+        "d2": "{M}",
+        "d3": "{yyyy}",
+        "zak": "50"
+      }
+    },
+    "SUPERENALOTTO": {
+      "table": "table.resultsTable tbody tr",
+      "numbers": "ul.balls li:not(.superstar)",
+      "method": "GET",
+      "url_suffix": "{yyyy}",
+      "params": null
+    },
+    "OZ_LOTTO_AUSTRALIA": {
+      "numbers": "ul.balls > li:has(.dbx)"
+    },
+    "LOTO_FRANCE": {
+      "numbers": "ul.displayball:first-child > li:not(.dbx)"
+    }
+  }
+}
