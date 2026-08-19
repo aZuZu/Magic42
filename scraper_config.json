@@ -106,11 +106,17 @@
         "data": "{yyyy-MM}-01"
       }
     },
+    "GOSLOTO_4X20": {
+      "table": "tr:has(.xgame), tr[bgcolor=#FFFADD], table.results3 tr",
+      "method": "POST",
+      "params": {
+        "data": "{yyyy-MM}-01"
+      }
+    },
     "GOSLOTO_5X36": {
       "table": "tr:has(.xgame), tr[bgcolor=#FFFADD], table.results3 tr",
       "method": "POST",
       "params": {
-        "mode": "selectmonth",
         "data": "{yyyy-MM}-01"
       }
     },
@@ -118,7 +124,6 @@
       "table": "tr:has(.xgame), tr[bgcolor=#FFFADD], table.results3 tr",
       "method": "POST",
       "params": {
-        "mode": "selectmonth",
         "data": "{yyyy-MM}-01"
       }
     },
@@ -126,7 +131,6 @@
       "table": "tr:has(.xgame), tr[bgcolor=#FFFADD], table.results3 tr",
       "method": "POST",
       "params": {
-        "mode": "selectmonth",
         "data": "{yyyy-MM}-01"
       }
     },
