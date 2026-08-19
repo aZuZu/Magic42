@@ -9,7 +9,7 @@
     "bonusNumberRangeStart": 1,
     "bonusNumberRangeEnd": 12,
     "bonusNumberCount": 2,
-    "comboCountArrayResId": 2130903040,
+    "comboCountArray": [1, 2, 3, 5, 10],
     "sourceStartDateStr": "2022-03-25",
     "useYearlyStrategy": false,
     "gamePath": "eurojackpot/results",
@@ -17,6 +17,9 @@
     "symbol": "⑤",
     "costPerCombination": 2.0,
     "drawDays": ["TUESDAY", "FRIDAY"],
+    "localizedNames": {
+      "en": "Eurojackpot", "hr": "Eurojackpot", "de": "Eurojackpot", "sl": "Eurojackpot", "cs": "Eurojackpot", "da": "Eurojackpot", "es": "Eurojackpot", "et": "Eurojackpot", "fi": "Eurojackpot", "fr": "Eurojackpot", "hu": "Eurojackpot", "is": "Eurojackpot", "it": "Eurojackpot", "lt": "Eurojackpot", "lv": "Eurojackpot", "nb": "Eurojackpot", "nl": "Eurojackpot", "pl": "Eurojackpot", "pt": "Eurojackpot", "sk": "Eurojackpot", "sv": "Eurojackpot", "el": "Eurojackpot"
+    },
     "ordinal": 0
   },
   {
@@ -29,7 +32,7 @@
     "bonusNumberRangeStart": 1,
     "bonusNumberRangeEnd": 35,
     "bonusNumberCount": 1,
-    "comboCountArrayResId": 2130903040,
+    "comboCountArray": [1, 2, 3, 5, 10],
     "sourceStartDateStr": "2018-10-13",
     "useYearlyStrategy": false,
     "gamePath": "croatia/loto7-results",
@@ -37,6 +40,9 @@
     "symbol": "⑦",
     "costPerCombination": 1.0,
     "drawDays": ["WEDNESDAY", "SATURDAY"],
+    "localizedNames": {
+      "en": "Loto 7", "hr": "Loto 7", "de": "Loto 7", "sl": "Loto 7", "cs": "Loto 7", "da": "Loto 7", "es": "Loto 7", "et": "Loto 7", "fi": "Loto 7", "fr": "Loto 7", "hu": "Loto 7", "is": "Loto 7", "it": "Loto 7", "lt": "Loto 7", "lv": "Loto 7", "nb": "Loto 7", "nl": "Loto 7", "pl": "Loto 7", "pt": "Loto 7", "sk": "Loto 7", "sv": "Loto 7", "el": "Loto 7"
+    },
     "ordinal": 1
   },
   {
@@ -49,7 +55,7 @@
     "bonusNumberRangeStart": 1,
     "bonusNumberRangeEnd": 45,
     "bonusNumberCount": 1,
-    "comboCountArrayResId": 2130903040,
+    "comboCountArray": [1, 2, 3, 5, 10],
     "sourceStartDateStr": "2015-01-04",
     "useYearlyStrategy": false,
     "gamePath": "croatia/loto6od45-results",
@@ -57,6 +63,9 @@
     "symbol": "⑥",
     "costPerCombination": 0.25,
     "drawDays": ["THURSDAY", "SUNDAY"],
+    "localizedNames": {
+      "en": "Loto 6", "hr": "Loto 6", "de": "Loto 6", "sl": "Loto 6", "cs": "Loto 6", "da": "Loto 6", "es": "Loto 6", "et": "Loto 6", "fi": "Loto 6", "fr": "Loto 6", "hu": "Loto 6", "is": "Loto 6", "it": "Loto 6", "lt": "Loto 6", "lv": "Loto 6", "nb": "Loto 6", "nl": "Loto 6", "pl": "Loto 6", "pt": "Loto 6", "sk": "Loto 6", "sv": "Loto 6", "el": "Loto 6"
+    },
     "ordinal": 2
   },
   {
@@ -69,7 +78,7 @@
     "bonusNumberRangeStart": 0,
     "bonusNumberRangeEnd": 0,
     "bonusNumberCount": 0,
-    "comboCountArrayResId": 2130903040,
+    "comboCountArray": [1, 2, 3, 5, 10],
     "sourceStartDateStr": "2024-01-01",
     "useYearlyStrategy": false,
     "gamePath": "croatia/sve-ili-nista/results",
@@ -77,6 +86,9 @@
     "symbol": "⑪",
     "costPerCombination": 1.3,
     "drawDays": ["MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY", "SUNDAY"],
+    "localizedNames": {
+      "en": "Sve ili Ništa", "hr": "Sve ili Ništa", "de": "Sve ili Ništa", "sl": "Sve ili Ništa", "cs": "Sve ili Ništa", "da": "Sve ili Ništa", "es": "Sve ili Ništa", "et": "Sve ili Ništa", "fi": "Sve ili Ništa", "fr": "Sve ili Ništa", "hu": "Sve ili Ništa", "is": "Sve ili Ništa", "it": "Sve ili Ništa", "lt": "Sve ili Ništa", "lv": "Sve ili Ništa", "nb": "Sve ili Ništa", "nl": "Sve ili Ništa", "pl": "Sve ili Ništa", "pt": "Sve ili Ništa", "sk": "Sve ili Ništa", "sv": "Sve ili Ništa", "el": "Sve ili Ništa"
+    },
     "ordinal": 3
   },
   {
@@ -89,7 +101,7 @@
     "bonusNumberRangeStart": 1,
     "bonusNumberRangeEnd": 12,
     "bonusNumberCount": 2,
-    "comboCountArrayResId": 2130903040,
+    "comboCountArray": [1, 2, 3, 5, 10],
     "sourceStartDateStr": "2016-09-27",
     "useYearlyStrategy": false,
     "gamePath": "euromillions/results",
@@ -97,6 +109,9 @@
     "symbol": "⑤",
     "costPerCombination": 2.5,
     "drawDays": ["TUESDAY", "FRIDAY"],
+    "localizedNames": {
+      "en": "EuroMillions", "hr": "EuroMillions", "de": "EuroMillions", "sl": "EuroMillions", "cs": "EuroMillions", "da": "EuroMillions", "es": "EuroMillions", "et": "EuroMillions", "fi": "EuroMillions", "fr": "EuroMillions", "hu": "EuroMillions", "is": "EuroMillions", "it": "EuroMillions", "lt": "EuroMillions", "lv": "EuroMillions", "nb": "EuroMillions", "nl": "EuroMillions", "pl": "EuroMillions", "pt": "EuroMillions", "sk": "EuroMillions", "sv": "EuroMillions", "el": "EuroMillions"
+    },
     "ordinal": 4
   },
   {
@@ -109,7 +124,7 @@
     "bonusNumberRangeStart": 1,
     "bonusNumberRangeEnd": 5,
     "bonusNumberCount": 1,
-    "comboCountArrayResId": 2130903040,
+    "comboCountArray": [1, 2, 3, 5, 10],
     "sourceStartDateStr": "2017-05-24",
     "useYearlyStrategy": false,
     "gamePath": "viking-lotto/results",
@@ -117,6 +132,9 @@
     "symbol": "⑥",
     "costPerCombination": 1.0,
     "drawDays": ["WEDNESDAY"],
+    "localizedNames": {
+      "en": "Vikinglotto", "hr": "Vikinglotto", "de": "Vikinglotto", "sl": "Vikinglotto", "cs": "Vikinglotto", "da": "Vikinglotto", "es": "Vikinglotto", "et": "Vikinglotto", "fi": "Vikinglotto", "fr": "Vikinglotto", "hu": "Vikinglotto", "is": "Vikinglotto", "it": "Vikinglotto", "lt": "Vikinglotto", "lv": "Vikinglotto", "nb": "Vikinglotto", "nl": "Vikinglotto", "pl": "Vikinglotto", "pt": "Vikinglotto", "sk": "Vikinglotto", "sv": "Vikinglotto", "el": "Vikinglotto"
+    },
     "ordinal": 5
   },
   {
@@ -129,7 +147,7 @@
     "bonusNumberRangeStart": 1,
     "bonusNumberRangeEnd": 90,
     "bonusNumberCount": 1,
-    "comboCountArrayResId": 2130903040,
+    "comboCountArray": [1, 2, 3, 5, 10],
     "sourceStartDateStr": "1998-01-01",
     "useYearlyStrategy": true,
     "gamePath": "https://www.superenalotto.net/en/results/",
@@ -137,6 +155,9 @@
     "symbol": "⑥",
     "costPerCombination": 1.5,
     "drawDays": ["TUESDAY", "THURSDAY", "FRIDAY", "SATURDAY"],
+    "localizedNames": {
+      "en": "SuperEnalotto", "hr": "SuperEnalotto", "de": "SuperEnalotto", "sl": "SuperEnalotto", "cs": "SuperEnalotto", "da": "SuperEnalotto", "es": "SuperEnalotto", "et": "SuperEnalotto", "fi": "SuperEnalotto", "fr": "SuperEnalotto", "hu": "SuperEnalotto", "is": "SuperEnalotto", "it": "SuperEnalotto", "lt": "SuperEnalotto", "lv": "SuperEnalotto", "nb": "SuperEnalotto", "nl": "SuperEnalotto", "pl": "SuperEnalotto", "pt": "SuperEnalotto", "sk": "SuperEnalotto", "sv": "SuperEnalotto", "el": "SuperEnalotto"
+    },
     "ordinal": 6
   },
   {
@@ -149,7 +170,7 @@
     "bonusNumberRangeStart": 0,
     "bonusNumberRangeEnd": 9,
     "bonusNumberCount": 1,
-    "comboCountArrayResId": 2130903040,
+    "comboCountArray": [1, 2, 3, 5, 10],
     "sourceStartDateStr": "2013-05-04",
     "useYearlyStrategy": false,
     "gamePath": "lotto_de/lotto-results_history",
@@ -157,6 +178,9 @@
     "symbol": "⑥",
     "costPerCombination": 1.2,
     "drawDays": ["WEDNESDAY", "SATURDAY"],
+    "localizedNames": {
+      "en": "Lotto Germany", "hr": "Njemački Loto", "de": "Lotto Germany", "sl": "Nemški Loto", "cs": "Německé Lotto", "da": "Tysk Lotto", "es": "Lotto Alemania", "et": "Saksamaa Loto", "fi": "Saksan Lotto", "fr": "Lotto Allemagne", "hu": "Német Lottó", "is": "Þýskt Lottó", "it": "Lotto Germania", "lt": "Vokietijos Lotto", "lv": "Vācijas Lotto", "nb": "Tysk Lotto", "nl": "Lotto Duitsland", "pl": "Lotto Niemcy", "pt": "Lotto Alemanha", "sk": "Nemecké Lotto", "sv": "Tysk Lotto", "el": "Lotto Γερμανίας"
+    },
     "ordinal": 7
   },
   {
@@ -169,7 +193,7 @@
     "bonusNumberRangeStart": 1,
     "bonusNumberRangeEnd": 10,
     "bonusNumberCount": 1,
-    "comboCountArrayResId": 2130903040,
+    "comboCountArray": [1, 2, 3, 5, 10],
     "sourceStartDateStr": "2009-01-03",
     "useYearlyStrategy": false,
     "gamePath": "france-loto/results",
@@ -177,6 +201,9 @@
     "symbol": "⑤",
     "costPerCombination": 2.2,
     "drawDays": ["MONDAY", "WEDNESDAY", "SATURDAY"],
+    "localizedNames": {
+      "en": "Loto France", "hr": "Francuski Loto", "de": "Loto France", "sl": "Francoski Loto", "cs": "Francouzské Loto", "da": "Fransk Loto", "es": "Loto Francia", "et": "Prantsuse Loto", "fi": "Ranskan Loto", "fr": "Loto France", "hu": "Francia Loto", "is": "Franskt Loto", "it": "Loto Francia", "lt": "Prancūzijos Loto", "lv": "Francijas Loto", "nb": "Fransk Loto", "nl": "Loto Frankrijk", "pl": "Loto Francja", "pt": "Loto França", "sk": "Francúzske Loto", "sv": "Fransk Loto", "el": "Loto Γαλλίας"
+    },
     "ordinal": 8
   },
   {
@@ -189,7 +216,7 @@
     "bonusNumberRangeStart": 0,
     "bonusNumberRangeEnd": 9,
     "bonusNumberCount": 1,
-    "comboCountArrayResId": 2130903040,
+    "comboCountArray": [1, 2, 3, 5, 10],
     "sourceStartDateStr": "1993-10-31",
     "useYearlyStrategy": false,
     "gamePath": "el-gordo-de-la-primitiva/results",
@@ -197,6 +224,9 @@
     "symbol": "⑤",
     "costPerCombination": 1.5,
     "drawDays": ["SUNDAY"],
+    "localizedNames": {
+      "en": "El Gordo", "hr": "El Gordo", "de": "El Gordo", "sl": "El Gordo", "cs": "El Gordo", "da": "El Gordo", "es": "El Gordo", "et": "El Gordo", "fi": "El Gordo", "fr": "El Gordo", "hu": "El Gordo", "is": "El Gordo", "it": "El Gordo", "lt": "El Gordo", "lv": "El Gordo", "nb": "El Gordo", "nl": "El Gordo", "pl": "El Gordo", "pt": "El Gordo", "sk": "El Gordo", "sv": "El Gordo", "el": "El Gordo"
+    },
     "ordinal": 9
   },
   {
@@ -209,7 +239,7 @@
     "bonusNumberRangeStart": 1,
     "bonusNumberRangeEnd": 44,
     "bonusNumberCount": 1,
-    "comboCountArrayResId": 2130903040,
+    "comboCountArray": [1, 2, 3, 5, 10],
     "sourceStartDateStr": "2023-10-11",
     "useYearlyStrategy": false,
     "gamePath": "slovenia/loto-rezultati",
@@ -217,6 +247,9 @@
     "symbol": "⑥",
     "costPerCombination": 0.8,
     "drawDays": ["WEDNESDAY", "SUNDAY"],
+    "localizedNames": {
+      "en": "Loto Slovenia", "hr": "Slovenski Loto", "de": "Slowenisches Loto", "sl": "Loto Slovenia", "cs": "Slovinské Loto", "da": "Slovensk Loto", "es": "Loto Eslovenia", "et": "Sloveenia Loto", "fi": "Slovenian Loto", "fr": "Loto Slovénie", "hu": "Szlovén Loto", "is": "Slóvenskt Loto", "it": "Loto Slovenia", "lt": "Slovėnijos Loto", "lv": "Slovēnijas Loto", "nb": "Slovensk Loto", "nl": "Loto Slovenië", "pl": "Loto Słowenia", "pt": "Loto Eslovénia", "sk": "Slovinské Loto", "sv": "Slovensk Loto", "el": "Loto Σλοβενίας"
+    },
     "ordinal": 10
   },
   {
@@ -229,7 +262,7 @@
     "bonusNumberRangeStart": 1,
     "bonusNumberRangeEnd": 26,
     "bonusNumberCount": 1,
-    "comboCountArrayResId": 2130903040,
+    "comboCountArray": [1, 2, 3, 5, 10],
     "sourceStartDateStr": "2015-10-07",
     "useYearlyStrategy": false,
     "gamePath": "powerball/results",
@@ -237,6 +270,9 @@
     "symbol": "⑤",
     "costPerCombination": 2.0,
     "drawDays": ["MONDAY", "WEDNESDAY", "SATURDAY"],
+    "localizedNames": {
+      "en": "Powerball US", "hr": "Powerball US", "de": "Powerball US", "sl": "Powerball US", "cs": "Powerball US", "da": "Powerball US", "es": "Powerball US", "et": "Powerball US", "fi": "Powerball US", "fr": "Powerball US", "hu": "Powerball US", "is": "Powerball US", "it": "Powerball US", "lt": "Powerball US", "lv": "Powerball US", "nb": "Powerball US", "nl": "Powerball US", "pl": "Powerball US", "pt": "Powerball US", "sk": "Powerball US", "sv": "Powerball US", "el": "Powerball US"
+    },
     "ordinal": 11
   },
   {
@@ -249,7 +285,7 @@
     "bonusNumberRangeStart": 1,
     "bonusNumberRangeEnd": 24,
     "bonusNumberCount": 1,
-    "comboCountArrayResId": 2130903040,
+    "comboCountArray": [1, 2, 3, 5, 10],
     "sourceStartDateStr": "2025-04-08",
     "useYearlyStrategy": false,
     "gamePath": "megamillions/results",
@@ -257,6 +293,9 @@
     "symbol": "⑤",
     "costPerCombination": 2.0,
     "drawDays": ["TUESDAY", "FRIDAY"],
+    "localizedNames": {
+      "en": "Mega Millions US", "hr": "Mega Millions US", "de": "Mega Millions US", "sl": "Mega Millions US", "cs": "Mega Millions US", "da": "Mega Millions US", "es": "Mega Millions US", "et": "Mega Millions US", "fi": "Mega Millions US", "fr": "Mega Millions US", "hu": "Mega Millions US", "is": "Mega Millions US", "it": "Mega Millions US", "lt": "Mega Millions US", "lv": "Mega Millions US", "nb": "Mega Millions US", "nl": "Mega Millions US", "pl": "Mega Millions US", "pt": "Mega Millions US", "sk": "Mega Millions US", "sv": "Mega Millions US", "el": "Mega Millions US"
+    },
     "ordinal": 12
   },
   {
@@ -269,7 +308,7 @@
     "bonusNumberRangeStart": 1,
     "bonusNumberRangeEnd": 59,
     "bonusNumberCount": 1,
-    "comboCountArrayResId": 2130903040,
+    "comboCountArray": [1, 2, 3, 5, 10],
     "sourceStartDateStr": "2026-06-10",
     "useYearlyStrategy": false,
     "gamePath": "uk/lotto-results_history",
@@ -277,6 +316,9 @@
     "symbol": "⑥",
     "costPerCombination": 2.0,
     "drawDays": ["WEDNESDAY", "SATURDAY"],
+    "localizedNames": {
+      "en": "UK Lotto", "hr": "Engleski Loto", "de": "UK Lotto", "sl": "Angleški Loto", "cs": "Britské Lotto", "da": "Britisk Lotto", "es": "Lotto Reino Unido", "et": "Suurbritannia Loto", "fi": "UK Lotto", "fr": "Lotto Royaume-Uni", "hu": "Brit Lottó", "is": "Breskt Lottó", "it": "UK Lotto", "lt": "Jungtinės Karalystės Lotto", "lv": "Lielbritānijas Lotto", "nb": "Britisk Lotto", "nl": "UK Lotto", "pl": "UK Lotto", "pt": "UK Lotto", "sk": "Britské Lotto", "sv": "Brittisk Lotto", "el": "UK Lotto"
+    },
     "ordinal": 13
   },
   {
@@ -289,7 +331,7 @@
     "bonusNumberRangeStart": 0,
     "bonusNumberRangeEnd": 0,
     "bonusNumberCount": 0,
-    "comboCountArrayResId": 2130903040,
+    "comboCountArray": [1, 2, 3, 5, 10],
     "sourceStartDateStr": "2023-11-02",
     "useYearlyStrategy": false,
     "gamePath": "greece/lotto-results",
@@ -297,6 +339,9 @@
     "symbol": "⑥",
     "costPerCombination": 1.0,
     "drawDays": ["WEDNESDAY", "SATURDAY"],
+    "localizedNames": {
+      "en": "Greece Lotto", "hr": "Grčki Loto", "de": "Griechisches Lotto", "sl": "Grški Loto", "cs": "Řecké Lotto", "da": "Græsk Lotto", "es": "Lotto Grecia", "et": "Kreeka Loto", "fi": "Kreikan Lotto", "fr": "Lotto Grèce", "hu": "Görög Lottó", "is": "Grískt Lottó", "it": "Lotto Grecia", "lt": "Graikijos Lotto", "lv": "Grieķijas Lotto", "nb": "Gresk Lotto", "nl": "Lotto Griekenland", "pl": "Lotto Grecja", "pt": "Lotto Grécia", "sk": "Grécke Lotto", "sv": "Grekisk Lotto", "el": "Lotto Ελλάδας"
+    },
     "ordinal": 14
   },
   {
@@ -309,7 +354,7 @@
     "bonusNumberRangeStart": 1,
     "bonusNumberRangeEnd": 45,
     "bonusNumberCount": 1,
-    "comboCountArrayResId": 2130903040,
+    "comboCountArray": [1, 2, 3, 5, 10],
     "sourceStartDateStr": "2011-10-01",
     "useYearlyStrategy": false,
     "gamePath": "belgium/lotto-results",
@@ -317,6 +362,9 @@
     "symbol": "⑥",
     "costPerCombination": 1.25,
     "drawDays": ["WEDNESDAY", "SATURDAY"],
+    "localizedNames": {
+      "en": "Belgium Lotto", "hr": "Belgijski Loto", "de": "Belgisches Lotto", "sl": "Belgijski Loto", "cs": "Belgické Lotto", "da": "Belgisk Lotto", "es": "Lotto Bélgica", "et": "Belgia Loto", "fi": "Belgian Lotto", "fr": "Lotto Belgique", "hu": "Belga Lottó", "is": "Belgískt Lottó", "it": "Lotto Belgio", "lt": "Belgijos Lotto", "lv": "Beļģijas Lotto", "nb": "Belgisk Lotto", "nl": "Lotto België", "pl": "Lotto Belgia", "pt": "Lotto Bélgica", "sk": "Belgické Lotto", "sv": "Belgisk Lotto", "el": "Lotto Βελγίου"
+    },
     "ordinal": 15
   },
   {
@@ -329,7 +377,7 @@
     "bonusNumberRangeStart": 0,
     "bonusNumberRangeEnd": 0,
     "bonusNumberCount": 0,
-    "comboCountArrayResId": 2130903040,
+    "comboCountArray": [1, 2, 3, 5, 10],
     "sourceStartDateStr": "2004-11-06",
     "useYearlyStrategy": false,
     "gamePath": "HungarianLottery/Otoslotto-Results_History",
@@ -337,6 +385,9 @@
     "symbol": "⑤",
     "costPerCombination": 1.0,
     "drawDays": ["SATURDAY"],
+    "localizedNames": {
+      "en": "Hungary Otoslotto", "hr": "Mađarski Otoslotto", "de": "Ungarisches Otoslotto", "sl": "Madžarski Otoslotto", "cs": "Maďarské Otoslotto", "da": "Ungarsk Otoslotto", "es": "Otoslotto Hungría", "et": "Ungari Otoslotto", "fi": "Unkarin Otoslotto", "fr": "Otoslotto Hongrie", "hu": "Ötöslottó", "is": "Ungverskt Otoslotto", "it": "Otoslotto Ungheria", "lt": "Vengrijos Otoslotto", "lv": "Ungārijas Otoslotto", "nb": "Ungarsk Otoslotto", "nl": "Otoslotto Hongarije", "pl": "Otoslotto Węgry", "pt": "Otoslotto Hungria", "sk": "Maďarské Otoslotto", "sv": "Ungersk Otoslotto", "el": "Otoslotto Ουγγαρίας"
+    },
     "ordinal": 16
   },
   {
@@ -349,7 +400,7 @@
     "bonusNumberRangeStart": 1,
     "bonusNumberRangeEnd": 40,
     "bonusNumberCount": 1,
-    "comboCountArrayResId": 2130903040,
+    "comboCountArray": [1, 2, 3, 5, 10],
     "sourceStartDateStr": "2019-09-14",
     "useYearlyStrategy": false,
     "gamePath": "iceland/lotto-results",
@@ -357,6 +408,9 @@
     "symbol": "⑤",
     "costPerCombination": 1.0,
     "drawDays": ["SATURDAY"],
+    "localizedNames": {
+      "en": "Iceland Lotto", "hr": "Islandski Loto", "de": "Isländisches Lotto", "sl": "Islandski Loto", "cs": "Islandské Lotto", "da": "Islandsk Lotto", "es": "Lotto Islandia", "et": "Islandi Loto", "fi": "Islannin Lotto", "fr": "Lotto Islande", "hu": "Izlandi Lottó", "is": "Íslenskt Lottó", "it": "Lotto Islanda", "lt": "Islandijos Lotto", "lv": "Islandes Lotto", "nb": "Islandsk Lotto", "nl": "Lotto IJsland", "pl": "Lotto Islandia", "pt": "Lotto Islândia", "sk": "Islandské Lotto", "sv": "Isländsk Lotto", "el": "Lotto Ισλανδίας"
+    },
     "ordinal": 17
   },
   {
@@ -369,7 +423,7 @@
     "bonusNumberRangeStart": 1,
     "bonusNumberRangeEnd": 10,
     "bonusNumberCount": 1,
-    "comboCountArrayResId": 2130903040,
+    "comboCountArray": [1, 2, 3, 5, 10],
     "sourceStartDateStr": "2024-09-21",
     "useYearlyStrategy": false,
     "gamePath": "Latvia/latloto/results",
@@ -377,6 +431,9 @@
     "symbol": "⑤",
     "costPerCombination": 0.75,
     "drawDays": ["WEDNESDAY", "SATURDAY"],
+    "localizedNames": {
+      "en": "Latvia Latloto", "hr": "Latvijski Latloto", "de": "Lettisches Latloto", "sl": "Latvijski Latloto", "cs": "Lotyšské Latloto", "da": "Lettisk Latloto", "es": "Latloto Letonia", "et": "Läti Latloto", "fi": "Latvian Latloto", "fr": "Latloto Lettonie", "hu": "Lett Latloto", "is": "Lettneskt Latloto", "it": "Latloto Lettonia", "lt": "Latvijos Latloto", "lv": "Latvijas Latloto", "nb": "Lettisk Latloto", "nl": "Latloto Letland", "pl": "Latloto Łotwa", "pt": "Latloto Letónia", "sk": "Lotyšské Latloto", "sv": "Lettisk Latloto", "el": "Latloto Λετονίας"
+    },
     "ordinal": 18
   },
   {
@@ -389,7 +446,7 @@
     "bonusNumberRangeStart": 0,
     "bonusNumberRangeEnd": 0,
     "bonusNumberCount": 0,
-    "comboCountArrayResId": 2130903040,
+    "comboCountArray": [1, 2, 3, 5, 10],
     "sourceStartDateStr": "2022-05-11",
     "useYearlyStrategy": false,
     "gamePath": "luxembourg/high5/results",
@@ -397,6 +454,9 @@
     "symbol": "⑤",
     "costPerCombination": 1.0,
     "drawDays": ["MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY", "SUNDAY"],
+    "localizedNames": {
+      "en": "Luxembourg High 5", "hr": "Luksemburški High 5", "de": "Luxemburgisches High 5", "sl": "Luksemburški High 5", "cs": "Lucemburské High 5", "da": "Luxembourgsk High 5", "es": "High 5 Luxemburgo", "et": "Luksemburgi High 5", "fi": "Luxemburgin High 5", "fr": "High 5 Luxembourg", "hu": "Luxemburgi High 5", "is": "Lúxemborgískt High 5", "it": "High 5 Lussemburgo", "lt": "Liuksemburgo High 5", "lv": "Luksemburgas High 5", "nb": "Luxembourgsk High 5", "nl": "High 5 Luxemburg", "pl": "High 5 Luksemburg", "pt": "High 5 Luxemburgo", "sk": "Luxemburské High 5", "sv": "Luxemburgsk High 5", "el": "High 5 Λουξεμβούργου"
+    },
     "ordinal": 19
   },
   {
@@ -409,7 +469,7 @@
     "bonusNumberRangeStart": 1,
     "bonusNumberRangeEnd": 45,
     "bonusNumberCount": 1,
-    "comboCountArrayResId": 2130903040,
+    "comboCountArray": [1, 2, 3, 5, 10],
     "sourceStartDateStr": "2022-06-04",
     "useYearlyStrategy": false,
     "gamePath": "netherlands/lotto-results",
@@ -417,6 +477,9 @@
     "symbol": "⑥",
     "costPerCombination": 2.0,
     "drawDays": ["SATURDAY"],
+    "localizedNames": {
+      "en": "Netherlands Lotto", "hr": "Nizozemski Loto", "de": "Niederländisches Lotto", "sl": "Nizozemski Loto", "cs": "Nizozemské Lotto", "da": "Hollandsk Lotto", "es": "Lotto Países Bajos", "et": "Hollandi Loto", "fi": "Alankomaiden Lotto", "fr": "Lotto Pays-Bas", "hu": "Holland Lottó", "is": "Hollenskt Lottó", "it": "Lotto Paesi Bassi", "lt": "Nyderlandų Lotto", "lv": "Nīderlandes Lotto", "nb": "Nederlandsk Lotto", "nl": "Lotto Nederland", "pl": "Lotto Holandia", "pt": "Lotto Países Baixos", "sk": "Holandské Lotto", "sv": "Nederländsk Lotto", "el": "Lotto Ολλανδίας"
+    },
     "ordinal": 20
   },
   {
@@ -429,7 +492,7 @@
     "bonusNumberRangeStart": 1,
     "bonusNumberRangeEnd": 13,
     "bonusNumberCount": 1,
-    "comboCountArrayResId": 2130903040,
+    "comboCountArray": [1, 2, 3, 5, 10],
     "sourceStartDateStr": "2011-03-16",
     "useYearlyStrategy": false,
     "gamePath": "portugal/totoloto-results",
@@ -437,6 +500,9 @@
     "symbol": "⑤",
     "costPerCombination": 0.9,
     "drawDays": ["WEDNESDAY", "SATURDAY"],
+    "localizedNames": {
+      "en": "Portugal Totoloto", "hr": "Portugalski Totoloto", "de": "Portugiesisches Totoloto", "sl": "Portugalski Totoloto", "cs": "Portugalské Totoloto", "da": "Portugisisk Totoloto", "es": "Totoloto Portugal", "et": "Portugali Totoloto", "fi": "Portugalin Totoloto", "fr": "Totoloto Portugal", "hu": "Portugál Totoloto", "is": "Portúgalskt Totoloto", "it": "Totoloto Portogallo", "lt": "Portugalijos Totoloto", "lv": "Portugāles Totoloto", "nb": "Portugisisk Totoloto", "nl": "Totoloto Portugal", "pl": "Totoloto Portugalia", "pt": "Totoloto Portugal", "sk": "Portugalské Totoloto", "sv": "Portugisisk Totoloto", "el": "Totoloto Πορτογαλίας"
+    },
     "ordinal": 21
   },
   {
@@ -449,7 +515,7 @@
     "bonusNumberRangeStart": 1,
     "bonusNumberRangeEnd": 49,
     "bonusNumberCount": 1,
-    "comboCountArrayResId": 2130903040,
+    "comboCountArray": [1, 2, 3, 5, 10],
     "sourceStartDateStr": "2020-05-20",
     "useYearlyStrategy": false,
     "gamePath": "slovakia/loto-results",
@@ -457,6 +523,9 @@
     "symbol": "⑥",
     "costPerCombination": 1.0,
     "drawDays": ["WEDNESDAY", "SUNDAY"],
+    "localizedNames": {
+      "en": "Slovakia Loto", "hr": "Slovački Loto", "de": "Slowakisches Loto", "sl": "Slovaški Loto", "cs": "Slovenské Loto", "da": "Slovakisk Loto", "es": "Loto Eslovaquia", "et": "Slovaki Loto", "fi": "Slovakian Loto", "fr": "Loto Slovaquie", "hu": "Szlovák Loto", "is": "Slóvakískt Loto", "it": "Loto Slovacchia", "lt": "Slovakijos Loto", "lv": "Slovākijas Loto", "nb": "Slovakisk Loto", "nl": "Loto Slowakije", "pl": "Loto Słowacja", "pt": "Loto Eslováquia", "sk": "Slovenské Loto", "sv": "Slovakisk Loto", "el": "Loto Σλοβακίας"
+    },
     "ordinal": 22
   },
   {
@@ -469,7 +538,7 @@
     "bonusNumberRangeStart": 1,
     "bonusNumberRangeEnd": 35,
     "bonusNumberCount": 4,
-    "comboCountArrayResId": 2130903040,
+    "comboCountArray": [1, 2, 3, 5, 10],
     "sourceStartDateStr": "1980-10-04",
     "useYearlyStrategy": false,
     "gamePath": "sweden/lotto-results",
@@ -477,6 +546,9 @@
     "symbol": "⑦",
     "costPerCombination": 1.0,
     "drawDays": ["WEDNESDAY", "SATURDAY"],
+    "localizedNames": {
+      "en": "Sweden Lotto", "hr": "Švedski Loto", "de": "Schwedisches Lotto", "sl": "Švedski Loto", "cs": "Švédské Lotto", "da": "Svensk Lotto", "es": "Lotto Suecia", "et": "Rootsi Loto", "fi": "Ruotsin Lotto", "fr": "Lotto Suède", "hu": "Svéd Lottó", "is": "Sænskt Lottó", "it": "Lotto Svezia", "lt": "Švedijos Lotto", "lv": "Zviedrijas Lotto", "nb": "Svensk Lotto", "nl": "Lotto Zweden", "pl": "Lotto Szwecja", "pt": "Lotto Suécia", "sk": "Švédske Lotto", "sv": "Svensk Lotto", "el": "Lotto Σουηδίας"
+    },
     "ordinal": 23
   },
   {
@@ -489,7 +561,7 @@
     "bonusNumberRangeStart": 1,
     "bonusNumberRangeEnd": 6,
     "bonusNumberCount": 1,
-    "comboCountArrayResId": 2130903040,
+    "comboCountArray": [1, 2, 3, 5, 10],
     "sourceStartDateStr": "2013-01-12",
     "useYearlyStrategy": false,
     "gamePath": "swiss-lotto/results",
@@ -497,6 +569,9 @@
     "symbol": "⑥",
     "costPerCombination": 2.5,
     "drawDays": ["WEDNESDAY", "SATURDAY"],
+    "localizedNames": {
+      "en": "Swiss Lotto", "hr": "Švicarski Loto", "de": "Schweizer Lotto", "sl": "Švicarski Loto", "cs": "Švýcarské Lotto", "da": "Schweizisk Lotto", "es": "Lotto Suiza", "et": "Šveitsi Loto", "fi": "Sveitsin Lotto", "fr": "Lotto Suisse", "hu": "Svájci Lottó", "is": "Svissneskt Lottó", "it": "Lotto Svizzera", "lt": "Šveicarijos Lotto", "lv": "Šveices Lotto", "nb": "Sveitsisk Lotto", "nl": "Lotto Zwitserland", "pl": "Lotto Szwajcaria", "pt": "Lotto Suíça", "sk": "Švajčiarske Lotto", "sv": "Schweizisk Lotto", "el": "Lotto Ελβετίας"
+    },
     "ordinal": 24
   },
   {
@@ -509,7 +584,7 @@
     "bonusNumberRangeStart": 1,
     "bonusNumberRangeEnd": 45,
     "bonusNumberCount": 1,
-    "comboCountArrayResId": 2130903040,
+    "comboCountArray": [1, 2, 3, 5, 10],
     "sourceStartDateStr": "1986-09-07",
     "useYearlyStrategy": false,
     "gamePath": "austria-lotto/results",
@@ -517,6 +592,9 @@
     "symbol": "⑥",
     "costPerCombination": 1.2,
     "drawDays": ["WEDNESDAY", "SUNDAY"],
+    "localizedNames": {
+      "en": "Austria Lotto", "hr": "Austrijski Loto", "de": "Österreichisches Lotto", "sl": "Avstrijski Loto", "cs": "Rakouské Lotto", "da": "Østrigsk Lotto", "es": "Lotto Austria", "et": "Austria Loto", "fi": "Itävallan Lotto", "fr": "Lotto Autriche", "hu": "Osztrák Lottó", "is": "Austurrískt Lottó", "it": "Lotto Austria", "lt": "Austrijos Lotto", "lv": "Austrijas Lotto", "nb": "Østerriksk Lotto", "nl": "Lotto Oostenrijk", "pl": "Lotto Austria", "pt": "Lotto Áustria", "sk": "Rakúske Lotto", "sv": "Österrikisk Lotto", "el": "Lotto Αυστρίας"
+    },
     "ordinal": 25
   },
   {
@@ -529,7 +607,7 @@
     "bonusNumberRangeStart": 1,
     "bonusNumberRangeEnd": 36,
     "bonusNumberCount": 1,
-    "comboCountArrayResId": 2130903040,
+    "comboCountArray": [1, 2, 3, 5, 10],
     "sourceStartDateStr": "2020-09-19",
     "useYearlyStrategy": false,
     "gamePath": "denmark/lotto-results",
@@ -537,6 +615,9 @@
     "symbol": "⑦",
     "costPerCombination": 1.0,
     "drawDays": ["SATURDAY"],
+    "localizedNames": {
+      "en": "Denmark Lotto", "hr": "Danski Loto", "de": "Dänisches Lotto", "sl": "Danski Loto", "cs": "Dánské Lotto", "da": "Dansk Lotto", "es": "Lotto Dinamarca", "et": "Taani Loto", "fi": "Tanskan Lotto", "fr": "Lotto Danemark", "hu": "Dán Lottó", "is": "Danskt Lottó", "it": "Lotto Danimarca", "lt": "Danijos Lotto", "lv": "Dānijas Lotto", "nb": "Dansk Lotto", "nl": "Lotto Denemarken", "pl": "Lotto Dania", "pt": "Lotto Dinamarca", "sk": "Dánske Lotto", "sv": "Dansk Lotto", "el": "Lotto Δανίας"
+    },
     "ordinal": 26
   },
   {
@@ -549,7 +630,7 @@
     "bonusNumberRangeStart": 1,
     "bonusNumberRangeEnd": 40,
     "bonusNumberCount": 1,
-    "comboCountArrayResId": 2130903040,
+    "comboCountArray": [1, 2, 3, 5, 10],
     "sourceStartDateStr": "2016-12-03",
     "useYearlyStrategy": false,
     "gamePath": "finland/lotto-results",
@@ -557,6 +638,9 @@
     "symbol": "⑦",
     "costPerCombination": 1.0,
     "drawDays": ["SATURDAY"],
+    "localizedNames": {
+      "en": "Finland Lotto", "hr": "Finski Loto", "de": "Finnisches Lotto", "sl": "Finski Loto", "cs": "Finské Lotto", "da": "Finsk Lotto", "es": "Lotto Finlandia", "et": "Soome Loto", "fi": "Suomen Lotto", "fr": "Lotto Finlande", "hu": "Finn Lottó", "is": "Finnskt Lottó", "it": "Lotto Finlandia", "lt": "Suomijos Lotto", "lv": "Somijas Lotto", "nb": "Finsk Lotto", "nl": "Lotto Finland", "pl": "Lotto Finlandia", "pt": "Lotto Finlândia", "sk": "Fínske Lotto", "sv": "Finsk Lotto", "el": "Lotto Φινλανδίας"
+    },
     "ordinal": 27
   },
   {
@@ -569,7 +653,7 @@
     "bonusNumberRangeStart": 1,
     "bonusNumberRangeEnd": 47,
     "bonusNumberCount": 1,
-    "comboCountArrayResId": 2130903040,
+    "comboCountArray": [1, 2, 3, 5, 10],
     "sourceStartDateStr": "2015-09-03",
     "useYearlyStrategy": false,
     "gamePath": "ireland/lotto-results",
@@ -577,6 +661,9 @@
     "symbol": "⑥",
     "costPerCombination": 2.0,
     "drawDays": ["WEDNESDAY", "SATURDAY"],
+    "localizedNames": {
+      "en": "Ireland Lotto", "hr": "Irski Loto", "de": "Irisches Lotto", "sl": "Irski Loto", "cs": "Irské Lotto", "da": "Irsk Lotto", "es": "Lotto Irlanda", "et": "Iiri Loto", "fi": "Irlannin Lotto", "fr": "Lotto Irlande", "hu": "Ír Lottó", "is": "Írskt Lottó", "it": "Lotto Irlanda", "lt": "Airijos Lotto", "lv": "Īrijas Lotto", "nb": "Irsk Lotto", "nl": "Lotto Ierland", "pl": "Lotto Irlandia", "pt": "Lotto Irlanda", "sk": "Írske Lotto", "sv": "Irländsk Lotto", "el": "Lotto Ιρλανδίας"
+    },
     "ordinal": 28
   },
   {
@@ -589,7 +676,7 @@
     "bonusNumberRangeStart": 0,
     "bonusNumberRangeEnd": 0,
     "bonusNumberCount": 0,
-    "comboCountArrayResId": 2130903040,
+    "comboCountArray": [1, 2, 3, 5, 10],
     "sourceStartDateStr": "2023-01-08",
     "useYearlyStrategy": false,
     "gamePath": "lithuania/jega-results",
@@ -597,6 +684,9 @@
     "symbol": "⑥",
     "costPerCombination": 1.0,
     "drawDays": ["SUNDAY"],
+    "localizedNames": {
+      "en": "Lithuania Loto", "hr": "Litavski Perlas", "de": "Lithuania Loto", "sl": "Litovski Perlas", "cs": "LitevskÃ½ Perlas", "da": "Lithuania Loto", "es": "Lithuania Loto", "et": "Lithuania Loto", "fi": "Lithuania Loto", "fr": "Lithuania Loto", "hu": "Lithuania Loto", "is": "Lithuania Loto", "it": "Lithuania Loto", "lt": "Lithuania Loto", "lv": "Lithuania Loto", "nb": "Lithuania Loto", "nl": "Lithuania Loto", "pl": "Lithuania Loto", "pt": "Lithuania Loto", "sk": "Lithuania Loto", "sv": "Lithuania Loto", "el": "Lithuania Loto"
+    },
     "ordinal": 29
   },
   {
@@ -609,7 +699,7 @@
     "bonusNumberRangeStart": 0,
     "bonusNumberRangeEnd": 9,
     "bonusNumberCount": 1,
-    "comboCountArrayResId": 2130903040,
+    "comboCountArray": [1, 2, 3, 5, 10],
     "sourceStartDateStr": "2012-11-08",
     "useYearlyStrategy": false,
     "gamePath": "la-primitiva/results",
@@ -617,6 +707,9 @@
     "symbol": "⑥",
     "costPerCombination": 1.0,
     "drawDays": ["MONDAY", "THURSDAY", "SATURDAY"],
+    "localizedNames": {
+      "en": "La Primitiva", "hr": "La Primitiva", "de": "La Primitiva", "sl": "La Primitiva", "cs": "La Primitiva", "da": "La Primitiva", "es": "La Primitiva", "et": "La Primitiva", "fi": "La Primitiva", "fr": "La Primitiva", "hu": "La Primitiva", "is": "La Primitiva", "it": "La Primitiva", "lt": "La Primitiva", "lv": "La Primitiva", "nb": "La Primitiva", "nl": "La Primitiva", "pl": "La Primitiva", "pt": "La Primitiva", "sk": "La Primitiva", "sv": "La Primitiva", "el": "La Primitiva"
+    },
     "ordinal": 30
   },
   {
@@ -629,7 +722,7 @@
     "bonusNumberRangeStart": 1,
     "bonusNumberRangeEnd": 47,
     "bonusNumberCount": 3,
-    "comboCountArrayResId": 2130903040,
+    "comboCountArray": [1, 2, 3, 5, 10],
     "sourceStartDateStr": "2022-05-17",
     "useYearlyStrategy": false,
     "gamePath": "australia/ozlotto-results",
@@ -637,6 +730,9 @@
     "symbol": "⑦",
     "costPerCombination": 1.5,
     "drawDays": ["TUESDAY"],
+    "localizedNames": {
+      "en": "Oz Lotto Australia", "hr": "Oz Loto Australija", "de": "Oz Lotto Australia", "sl": "Oz Lotto Australia", "cs": "Oz Loto AustrÃ¡lie", "da": "Oz Lotto Australia", "es": "Oz Lotto Australia", "et": "Oz Lotto Australia", "fi": "Oz Lotto Australia", "fr": "Oz Lotto Australia", "hu": "Oz Lotto Australia", "is": "Oz Lotto Australia", "it": "Oz Lotto Australia", "lt": "Oz Lotto Australia", "lv": "Oz Lotto Australia", "nb": "Oz Lotto Australia", "nl": "Oz Lotto Australia", "pl": "Oz Lotto Australia", "pt": "Oz Lotto Australia", "sk": "Oz Lotto Australia", "sv": "Oz Lotto Australia", "el": "Oz Lotto Australia"
+    },
     "ordinal": 31
   },
   {
@@ -649,7 +745,7 @@
     "bonusNumberRangeStart": 1,
     "bonusNumberRangeEnd": 20,
     "bonusNumberCount": 1,
-    "comboCountArrayResId": 2130903040,
+    "comboCountArray": [1, 2, 3, 5, 10],
     "sourceStartDateStr": "2018-04-19",
     "useYearlyStrategy": false,
     "gamePath": "australia/powerball-results",
@@ -657,6 +753,9 @@
     "symbol": "⑦",
     "costPerCombination": 1.5,
     "drawDays": ["THURSDAY"],
+    "localizedNames": {
+      "en": "Powerball Australia", "hr": "Powerball Australija", "de": "Powerball Australia", "sl": "Powerball Australia", "cs": "Powerball AustrÃ¡lie", "da": "Powerball Australia", "es": "Powerball Australia", "et": "Powerball Australia", "fi": "Powerball Australia", "fr": "Powerball Australia", "hu": "Powerball Australia", "is": "Powerball Australia", "it": "Powerball Australia", "lt": "Powerball Australia", "lv": "Powerball Australia", "nb": "Powerball Australia", "nl": "Powerball Australia", "pl": "Powerball Australia", "pt": "Powerball Australia", "sk": "Powerball Australia", "sv": "Powerball Australia", "el": "Powerball Australia"
+    },
     "ordinal": 32
   },
   {
@@ -669,7 +768,7 @@
     "bonusNumberRangeStart": 0,
     "bonusNumberRangeEnd": 0,
     "bonusNumberCount": 0,
-    "comboCountArrayResId": 2130903040,
+    "comboCountArray": [1, 2, 3, 5, 10],
     "sourceStartDateStr": "1996-03-11",
     "useYearlyStrategy": false,
     "gamePath": "mega-sena/results",
@@ -677,6 +776,9 @@
     "symbol": "⑥",
     "costPerCombination": 1.0,
     "drawDays": ["TUESDAY", "THURSDAY", "SATURDAY"],
+    "localizedNames": {
+      "en": "Mega-Sena (Brazil)", "hr": "Mega-Sena (Brazil)", "de": "Mega-Sena (Brazil)", "sl": "Mega-Sena (Brazil)", "cs": "Mega-Sena (BrazÃ­lie)", "da": "Mega-Sena (Brazil)", "es": "Mega-Sena (Brazil)", "et": "Mega-Sena (Brazil)", "fi": "Mega-Sena (Brazil)", "fr": "Mega-Sena (Brazil)", "hu": "Mega-Sena (Brazil)", "is": "Mega-Sena (Brazil)", "it": "Mega-Sena (Brazil)", "lt": "Mega-Sena (Brazil)", "lv": "Mega-Sena (Brazil)", "nb": "Mega-Sena (Brazil)", "nl": "Mega-Sena (Brazil)", "pl": "Mega-Sena (Brazil)", "pt": "Mega-Sena (Brazil)", "sk": "Mega-Sena (Brazil)", "sv": "Mega-Sena (Brazil)", "el": "Mega-Sena (Brazil)"
+    },
     "ordinal": 33
   },
   {
@@ -689,7 +791,7 @@
     "bonusNumberRangeStart": 1,
     "bonusNumberRangeEnd": 90,
     "bonusNumberCount": 2,
-    "comboCountArrayResId": 2130903040,
+    "comboCountArray": [1, 2, 3, 5, 10],
     "sourceStartDateStr": "2020-08-01",
     "useYearlyStrategy": false,
     "gamePath": "turkey/sayisal-loto-results",
@@ -697,6 +799,9 @@
     "symbol": "⑥",
     "costPerCombination": 0.5,
     "drawDays": ["MONDAY", "WEDNESDAY", "SATURDAY"],
+    "localizedNames": {
+      "en": "Sayisal Loto", "hr": "Sayisal Loto", "de": "Sayisal Loto", "sl": "Sayisal Loto", "cs": "Sayisal Loto", "da": "Sayisal Loto", "es": "Sayisal Loto", "et": "Sayisal Loto", "fi": "Sayisal Loto", "fr": "Sayisal Loto", "hu": "Sayisal Loto", "is": "Sayisal Loto", "it": "Sayisal Loto", "lt": "Sayisal Loto", "lv": "Sayisal Loto", "nb": "Sayisal Loto", "nl": "Sayisal Loto", "pl": "Sayisal Loto", "pt": "Sayisal Loto", "sk": "Sayisal Loto", "sv": "Sayisal Loto", "el": "Sayisal Loto"
+    },
     "ordinal": 34
   },
   {
@@ -709,7 +814,7 @@
     "bonusNumberRangeStart": 0,
     "bonusNumberRangeEnd": 0,
     "bonusNumberCount": 0,
-    "comboCountArrayResId": 2130903040,
+    "comboCountArray": [1, 2, 3, 5, 10],
     "sourceStartDateStr": "2008-06-04",
     "useYearlyStrategy": false,
     "gamePath": "ukraine/superlotto-results",
@@ -717,6 +822,170 @@
     "symbol": "⑥",
     "costPerCombination": 0.4,
     "drawDays": ["WEDNESDAY", "SATURDAY"],
+    "localizedNames": {
+      "en": "Super Loto Ukraine", "hr": "Super Loto Ukrajina", "de": "Super Loto Ukraine", "sl": "Super Loto Ukrajina", "cs": "Super Loto Ukrajina", "da": "Super Loto Ukraine", "es": "Super Loto Ukraine", "et": "Super Loto Ukraine", "fi": "Super Loto Ukraine", "fr": "Super Loto Ukraine", "hu": "Super Loto Ukraine", "is": "Super Loto Ukraine", "it": "Super Loto Ukraine", "lt": "Super Loto Ukraine", "lv": "Super Loto Ukraine", "nb": "Super Loto Ukraine", "nl": "Super Loto Ukraine", "pl": "Super Loto Ukraine", "pt": "Super Loto Ukraine", "sk": "Super Loto Ukraine", "sv": "Super Loto Ukraine", "el": "Super Loto Ukraine"
+    },
     "ordinal": 35
+  },
+  {
+    "id": "GOSLOTO_4X20",
+    "countries": ["RUSSIA"],
+    "canBetOnIt": false,
+    "mainNumberRangeStart": 1,
+    "mainNumberRangeEnd": 20,
+    "mainNumberCount": 4,
+    "bonusNumberRangeStart": 1,
+    "bonusNumberRangeEnd": 20,
+    "bonusNumberCount": 4,
+    "comboCountArray": [1, 2, 3, 5, 10],
+    "sourceStartDateStr": "2016-12-31",
+    "useYearlyStrategy": false,
+    "gamePath": "russia/gosloto_4x20-results",
+    "drawsPerWeek": 7,
+    "symbol": "④",
+    "costPerCombination": 1.5,
+    "drawDays": ["MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY", "SUNDAY"],
+    "localizedNames": {
+      "en": "Gosloto 4x20 (Russia)", "hr": "Gosloto 4x20 (Rusija)", "de": "Gosloto 4x20 (Russland)", "sl": "Gosloto 4x20 (Rusija)", "cs": "Gosloto 4x20 (Rusko)", "da": "Gosloto 4x20 (Rusland)", "es": "Gosloto 4x20 (Rusia)", "et": "Gosloto 4x20 (Venemaa)", "fi": "Gosloto 4x20 (Venäjä)", "fr": "Gosloto 4x20 (Russie)", "hu": "Gosloto 4x20 (Oroszország)", "is": "Gosloto 4x20 (Rússland)", "it": "Gosloto 4x20 (Russia)", "lt": "Gosloto 4x20 (Rusija)", "lv": "Gosloto 4x20 (Krievija)", "nb": "Gosloto 4x20 (Russland)", "nl": "Gosloto 4x20 (Rusland)", "pl": "Gosloto 4x20 (Rosja)", "pt": "Gosloto 4x20 (Rússia)", "sk": "Gosloto 4x20 (Rusko)", "sv": "Gosloto 4x20 (Ryssland)", "el": "Gosloto 4x20 (Ρωσία)"
+    },
+    "ordinal": 36
+  },
+  {
+    "id": "GOSLOTO_5X36",
+    "countries": ["RUSSIA"],
+    "canBetOnIt": false,
+    "mainNumberRangeStart": 1,
+    "mainNumberRangeEnd": 36,
+    "mainNumberCount": 5,
+    "bonusNumberRangeStart": 1,
+    "bonusNumberRangeEnd": 4,
+    "bonusNumberCount": 1,
+    "comboCountArray": [1, 2, 3, 5, 10],
+    "sourceStartDateStr": "2009-11-01",
+    "useYearlyStrategy": false,
+    "gamePath": "russia/gosloto_5x36-results",
+    "drawsPerWeek": 7,
+    "symbol": "⑤",
+    "costPerCombination": 0.8,
+    "drawDays": ["MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY", "SUNDAY"],
+    "localizedNames": {
+      "en": "Gosloto 5x36 (Russia)", "hr": "Gosloto 5x36 (Rusija)", "de": "Gosloto 5x36 (Russland)", "sl": "Gosloto 5x36 (Rusija)", "cs": "Gosloto 5x36 (Rusko)", "da": "Gosloto 5x36 (Rusland)", "es": "Gosloto 5x36 (Rusia)", "et": "Gosloto 5x36 (Venemaa)", "fi": "Gosloto 5x36 (Venäjä)", "fr": "Gosloto 5x36 (Russie)", "hu": "Gosloto 5x36 (Oroszország)", "is": "Gosloto 5x36 (Rússland)", "it": "Gosloto 5x36 (Russia)", "lt": "Gosloto 5x36 (Rusija)", "lv": "Gosloto 5x36 (Krievija)", "nb": "Gosloto 5x36 (Russland)", "nl": "Gosloto 5x36 (Rusland)", "pl": "Gosloto 5x36 (Rosja)", "pt": "Gosloto 5x36 (Rússia)", "sk": "Gosloto 5x36 (Rusko)", "sv": "Gosloto 5x36 (Ryssland)", "el": "Gosloto 5x36 (Ρωσία)"
+    },
+    "ordinal": 37
+  },
+  {
+    "id": "GOSLOTO_6X45",
+    "countries": ["RUSSIA"],
+    "canBetOnIt": false,
+    "mainNumberRangeStart": 1,
+    "mainNumberRangeEnd": 45,
+    "mainNumberCount": 6,
+    "bonusNumberRangeStart": 0,
+    "bonusNumberRangeEnd": 0,
+    "bonusNumberCount": 0,
+    "comboCountArray": [1, 2, 3, 5, 10],
+    "sourceStartDateStr": "2010-01-01",
+    "useYearlyStrategy": false,
+    "gamePath": "russia/gosloto_6x45-results",
+    "drawsPerWeek": 7,
+    "symbol": "⑥",
+    "costPerCombination": 1.0,
+    "drawDays": ["MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY", "SUNDAY"],
+    "localizedNames": {
+      "en": "Gosloto 6x45 (Russia)", "hr": "Gosloto 6x45 (Rusija)", "de": "Gosloto 6x45 (Russland)", "sl": "Gosloto 6x45 (Rusija)", "cs": "Gosloto 6x45 (Rusko)", "da": "Gosloto 6x45 (Rusland)", "es": "Gosloto 6x45 (Rusia)", "et": "Gosloto 6x45 (Venemaa)", "fi": "Gosloto 6x45 (Venäjä)", "fr": "Gosloto 6x45 (Russie)", "hu": "Gosloto 6x45 (Oroszország)", "is": "Gosloto 6x45 (Rússland)", "it": "Gosloto 6x45 (Russia)", "lt": "Gosloto 6x45 (Rusija)", "lv": "Gosloto 6x45 (Krievija)", "nb": "Gosloto 6x45 (Russland)", "nl": "Gosloto 6x45 (Rusland)", "pl": "Gosloto 6x45 (Rosja)", "pt": "Gosloto 6x45 (Rússia)", "sk": "Gosloto 6x45 (Rusko)", "sv": "Gosloto 6x45 (Ryssland)", "el": "Gosloto 6x45 (Ρωσία)"
+    },
+    "ordinal": 38
+  },
+  {
+    "id": "GOSLOTO_7X49",
+    "countries": ["RUSSIA"],
+    "canBetOnIt": false,
+    "mainNumberRangeStart": 1,
+    "mainNumberRangeEnd": 49,
+    "mainNumberCount": 7,
+    "bonusNumberRangeStart": 0,
+    "bonusNumberRangeEnd": 0,
+    "bonusNumberCount": 0,
+    "comboCountArray": [1, 2, 3, 5, 10],
+    "sourceStartDateStr": "2011-05-22",
+    "useYearlyStrategy": false,
+    "gamePath": "russia/7x49-results",
+    "drawsPerWeek": 7,
+    "symbol": "⑦",
+    "costPerCombination": 1.0,
+    "drawDays": ["MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY", "SUNDAY"],
+    "localizedNames": {
+      "en": "Gosloto 7x49 (Russia)", "hr": "Gosloto 7x49 (Rusija)", "de": "Gosloto 7x49 (Russland)", "sl": "Gosloto 7x49 (Rusija)", "cs": "Gosloto 7x49 (Rusko)", "da": "Gosloto 7x49 (Rusland)", "es": "Gosloto 7x49 (Rusia)", "et": "Gosloto 7x49 (Venemaa)", "fi": "Gosloto 7x49 (Venäjä)", "fr": "Gosloto 7x49 (Russie)", "hu": "Gosloto 7x49 (Oroszország)", "is": "Gosloto 7x49 (Rússland)", "it": "Gosloto 7x49 (Russia)", "lt": "Gosloto 7x49 (Rusija)", "lv": "Gosloto 7x49 (Krievija)", "nb": "Gosloto 7x49 (Russland)", "nl": "Gosloto 7x49 (Rusland)", "pl": "Gosloto 7x49 (Rosja)", "pt": "Gosloto 7x49 (Rússia)", "sk": "Gosloto 7x49 (Rusko)", "sv": "Gosloto 7x49 (Ryssland)", "el": "Gosloto 7x49 (Ρωσία)"
+    },
+    "ordinal": 39
+  },
+  {
+    "id": "SPORTKA",
+    "countries": ["CZECHIA"],
+    "canBetOnIt": false,
+    "mainNumberRangeStart": 1,
+    "mainNumberRangeEnd": 49,
+    "mainNumberCount": 6,
+    "bonusNumberRangeStart": 1,
+    "bonusNumberRangeEnd": 49,
+    "bonusNumberCount": 1,
+    "comboCountArray": [1, 2, 3, 5, 10],
+    "sourceStartDateStr": "2015-01-01",
+    "useYearlyStrategy": false,
+    "gamePath": "czech/sportka-results",
+    "drawsPerWeek": 3,
+    "symbol": "⑥",
+    "costPerCombination": 0.8,
+    "drawDays": ["WEDNESDAY", "FRIDAY", "SUNDAY"],
+    "localizedNames": {
+      "en": "Sportka (Czechia)", "hr": "Sportka (Češka)", "de": "Sportka (Tschechien)", "sl": "Sportka (Češka)", "cs": "Sportka", "da": "Sportka (Tjekkiet)", "es": "Sportka (Chequia)", "et": "Sportka (Tšehhi)", "fi": "Sportka (Tšekki)", "fr": "Sportka (Tchéquie)", "hu": "Sportka (Csehország)", "is": "Sportka (Tékkland)", "it": "Sportka (Cechia)", "lt": "Sportka (Čekija)", "lv": "Sportka (Čehija)", "nb": "Sportka (Tsjekkia)", "nl": "Sportka (Tsjechië)", "pl": "Sportka (Czechy)", "pt": "Sportka (Chéquia)", "sk": "Sportka (Česko)", "sv": "Sportka (Tjeckien)", "el": "Sportka (Τσεχία)"
+    },
+    "ordinal": 40
+  },
+  {
+    "id": "EUROMILIONY_CZ",
+    "countries": ["CZECHIA"],
+    "canBetOnIt": false,
+    "mainNumberRangeStart": 1,
+    "mainNumberRangeEnd": 35,
+    "mainNumberCount": 7,
+    "bonusNumberRangeStart": 1,
+    "bonusNumberRangeEnd": 5,
+    "bonusNumberCount": 1,
+    "comboCountArray": [1, 2, 3, 5, 10],
+    "sourceStartDateStr": "2015-01-01",
+    "useYearlyStrategy": false,
+    "gamePath": "czech/euromiliony-results",
+    "drawsPerWeek": 2,
+    "symbol": "⑦",
+    "costPerCombination": 1.2,
+    "drawDays": ["TUESDAY", "SATURDAY"],
+    "localizedNames": {
+      "en": "Euromiliony (Czechia)", "hr": "Euromiliony (Češka)", "de": "Euromiliony (Tschechien)", "sl": "Euromiliony (Češka)", "cs": "Euromiliony", "da": "Euromiliony (Tjekkiet)", "es": "Euromiliony (Chequia)", "et": "Euromiliony (Tšehhi)", "fi": "Euromiliony (Tšekki)", "fr": "Euromiliony (Tchéquie)", "hu": "Euromiliony (Csehország)", "is": "Euromiliony (Tékkland)", "it": "Euromiliony (Cechia)", "lt": "Euromiliony (Čekija)", "lv": "Euromiliony (Čehija)", "nb": "Euromiliony (Tsjekkia)", "nl": "Euromiliony (Tsjechië)", "pl": "Euromiliony (Czechy)", "pt": "Euromiliony (Chéquia)", "sk": "Euromiliony (Česko)", "sv": "Euromiliony (Tjeckien)", "el": "Euromiliony (Τσεχία)"
+    },
+    "ordinal": 41
+  },
+  {
+    "id": "EUROMILIONY_SK",
+    "countries": ["SLOVAKIA"],
+    "canBetOnIt": false,
+    "mainNumberRangeStart": 1,
+    "mainNumberRangeEnd": 33,
+    "mainNumberCount": 7,
+    "bonusNumberRangeStart": 1,
+    "bonusNumberRangeEnd": 6,
+    "bonusNumberCount": 1,
+    "comboCountArray": [1, 2, 3, 5, 10],
+    "sourceStartDateStr": "2015-01-01",
+    "useYearlyStrategy": false,
+    "gamePath": "slovakia/euromiliony-results",
+    "drawsPerWeek": 2,
+    "symbol": "⑦",
+    "costPerCombination": 1.5,
+    "drawDays": ["TUESDAY", "SATURDAY"],
+    "localizedNames": {
+      "en": "Euromilióny (Slovakia)", "hr": "Euromilióny (Slovačka)", "de": "Euromilióny (Slowakei)", "sl": "Euromilióny (Slovaška)", "cs": "Euromilióny (Slovensko)", "da": "Euromilióny (Slovakiet)", "es": "Euromilióny (Eslovaquia)", "et": "Euromilióny (Slovakkia)", "fi": "Euromilióny (Slovakia)", "fr": "Euromilióny (Slovaquie)", "hu": "Euromilióny (Szlovákia)", "is": "Euromilióny (Slóvakía)", "it": "Euromilióny (Slovacchia)", "lt": "Euromilióny (Slovakija)", "lv": "Euromilióny (Slovākija)", "nb": "Euromilióny (Slovakia)", "nl": "Euromilióny (Slowakije)", "pl": "Euromilióny (Słowacja)", "pt": "Euromilióny (Eslováquia)", "sk": "Euromilióny", "sv": "Euromilióny (Slovakien)", "el": "Euromilióny (Σλοβακία)"
+    },
+    "ordinal": 42
   }
 ]
