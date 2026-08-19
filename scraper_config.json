@@ -27,6 +27,7 @@
       }
     },
     "LOTTO_FINLAND": {
+      "table": "tr:has(.xgame)",
       "numbers": "ul.displayball:first-child > li:not(.dbx)",
       "params": {
         "tryb": "rokmsc",
@@ -35,6 +36,7 @@
       }
     },
     "SUPER_LOTO_UKRAINE": {
+      "table": "tr:has(.xgame)",
       "params": {
         "tryb": "rokmsc",
         "_month": "{M}",
@@ -73,6 +75,14 @@
         "data_rok": "{yyyy}"
       }
     },
+    "UK_LOTTO": {
+      "table": "table.results, tr[bgcolor=#FFFADD]",
+      "method": "POST",
+      "params": {
+        "mode": "month",
+        "year_month": "{yyyy-MM}"
+      }
+    },
     "EUROMILLIONS": {
       "table": "div.xgm2 > div",
       "params": {
@@ -97,7 +107,7 @@
       }
     },
     "GOSLOTO_5X36": {
-      "table": "tr:has(.xgame), tr[bgcolor=#FFFADD], table.results3 tr",
+      "table": "tr:has(.xgame)",
       "method": "POST",
       "params": {
         "mode": "month",
@@ -105,7 +115,7 @@
       }
     },
     "GOSLOTO_6X45": {
-      "table": "tr:has(.xgame), tr[bgcolor=#FFFADD], table.results3 tr",
+      "table": "tr:has(.xgame)",
       "method": "POST",
       "params": {
         "mode": "month",
@@ -113,7 +123,7 @@
       }
     },
     "GOSLOTO_7X49": {
-      "table": "tr:has(.xgame), tr[bgcolor=#FFFADD], table.results3 tr",
+      "table": "tr:has(.xgame)",
       "method": "POST",
       "params": {
         "mode": "month",
@@ -129,6 +139,7 @@
       }
     },
     "EUROMILIONY_CZ": {
+      "table": "table.results, tr[bgcolor=#FFFADD]",
       "method": "POST",
       "params": {
         "tryb": "miesiac",
