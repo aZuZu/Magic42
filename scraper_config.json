@@ -97,18 +97,23 @@
       "numbers": "ul.displayball:first-child > li:not(.dbx)"
     },
     "GOSLOTO_4X20": {
-      "method": "GET"
+      "table": "tr:has(.xgame), tr[bgcolor=#FFFADD], table.results3 tr",
+      "method": "POST"
     },
     "GOSLOTO_5X36": {
-      "method": "GET"
+      "table": "tr:has(.xgame), tr[bgcolor=#FFFADD], table.results3 tr",
+      "method": "POST"
     },
     "GOSLOTO_6X45": {
-      "method": "GET"
+      "table": "tr:has(.xgame), tr[bgcolor=#FFFADD], table.results3 tr",
+      "method": "POST"
     },
     "GOSLOTO_7X49": {
-      "method": "GET"
+      "table": "tr:has(.xgame), tr[bgcolor=#FFFADD], table.results3 tr",
+      "method": "POST"
     },
     "SPORTKA": {
+      "table": "table.results3 tr",
       "method": "POST",
       "params": {
         "tryb": "miesiac",
@@ -116,6 +121,7 @@
       }
     },
     "EUROMILIONY_CZ": {
+      "table": "table.results3 tr",
       "method": "POST",
       "params": {
         "tryb": "miesiac",
@@ -123,11 +129,28 @@
       }
     },
     "EUROMILIONY_SK": {
+      "table": "table.results3 tr",
       "method": "POST",
       "params": {
         "tryb": "miesiac",
         "rokmsc": "{yyyy-MM}"
       }
+    },
+    "LOTTO_649_CANADA": {
+      "table": "table.results3 tr",
+      "method": "GET"
+    },
+    "LOTTO_MAX_CANADA": {
+      "table": "table.results3 tr",
+      "method": "GET"
+    },
+    "LOTTO_SOUTH_AFRICA": {
+      "table": "table.results3 tr",
+      "method": "GET"
+    },
+    "POWERBALL_SOUTH_AFRICA": {
+      "table": "table.results3 tr",
+      "method": "GET"
     }
   }
 }
