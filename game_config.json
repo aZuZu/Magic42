@@ -987,5 +987,144 @@
       "en": "Euromilióny (Slovakia)", "hr": "Euromilióny (Slovačka)", "de": "Euromilióny (Slowakei)", "sl": "Euromilióny (Slovaška)", "cs": "Euromilióny (Slovensko)", "da": "Euromilióny (Slovakiet)", "es": "Euromilióny (Eslovaquia)", "et": "Euromilióny (Slovakkia)", "fi": "Euromilióny (Slovakia)", "fr": "Euromilióny (Slovaquie)", "hu": "Euromilióny (Szlovákia)", "is": "Euromilióny (Slóvakía)", "it": "Euromilióny (Slovacchia)", "lt": "Euromilióny (Slovakija)", "lv": "Euromilióny (Slovākija)", "nb": "Euromilióny (Slovakia)", "nl": "Euromilióny (Slowakije)", "pl": "Euromilióny (Słowacja)", "pt": "Euromilióny (Eslováquia)", "sk": "Euromilióny", "sv": "Euromilióny (Slovakien)", "el": "Euromilióny (Σλοβακία)"
     },
     "ordinal": 42
+  },
+  {
+    "id": "LOTTO_649_CANADA",
+    "countries": ["CANADA"],
+    "canBetOnIt": true,
+    "mainNumberRangeStart": 1,
+    "mainNumberRangeEnd": 49,
+    "mainNumberCount": 6,
+    "bonusNumberRangeStart": 1,
+    "bonusNumberRangeEnd": 49,
+    "bonusNumberCount": 1,
+    "comboCountArray": [1, 2, 3, 5, 10],
+    "sourceStartDateStr": "2024-01-01",
+    "useYearlyStrategy": false,
+    "gamePath": "canada/lotto649-results",
+    "drawsPerWeek": 2,
+    "symbol": "⑥",
+    "costPerCombination": 3.0,
+    "drawDays": ["THURSDAY", "SUNDAY"],
+    "localizedNames": {
+      "en": "Lotto 6/49 (Canada)", "hr": "Lotto 6/49 (Kanada)", "de": "Lotto 6/49 (Kanada)", "sl": "Lotto 6/49 (Kanada)", "cs": "Lotto 6/49 (Kanada)", "da": "Lotto 6/49 (Canada)", "es": "Lotto 6/49 (Canadá)", "et": "Lotto 6/49 (Kanada)", "fi": "Lotto 6/49 (Kanada)", "fr": "Lotto 6/49 (Canada)", "hu": "Lotto 6/49 (Kanada)", "is": "Lotto 6/49 (Kanada)", "it": "Lotto 6/49 (Canada)", "lt": "Lotto 6/49 (Kanada)", "lv": "Lotto 6/49 (Kanāda)", "nb": "Lotto 6/49 (Canada)", "nl": "Lotto 6/49 (Canada)", "pl": "Lotto 6/49 (Kanada)", "pt": "Lotto 6/49 (Canadá)", "sk": "Lotto 6/49 (Kanada)", "sv": "Lotto 6/49 (Kanada)", "el": "Lotto 6/49 (Καναδάς)"
+    },
+    "ordinal": 43
+  },
+  {
+    "id": "BC_49_CANADA",
+    "countries": ["CANADA"],
+    "canBetOnIt": true,
+    "mainNumberRangeStart": 1,
+    "mainNumberRangeEnd": 49,
+    "mainNumberCount": 6,
+    "bonusNumberRangeStart": 1,
+    "bonusNumberRangeEnd": 49,
+    "bonusNumberCount": 1,
+    "comboCountArray": [1, 2, 3, 5, 10],
+    "sourceStartDateStr": "2024-01-01",
+    "useYearlyStrategy": false,
+    "gamePath": "canada/bc49-results",
+    "drawsPerWeek": 2,
+    "symbol": "⑥",
+    "costPerCombination": 3.0,
+    "drawDays": ["THURSDAY", "SUNDAY"],
+    "localizedNames": {
+      "en": "BC/49 (Canada)", "hr": "BC/49 (Kanada)", "de": "BC/49 (Kanada)", "sl": "BC/49 (Kanada)", "cs": "BC/49 (Kanada)", "da": "BC/49 (Canada)", "es": "BC/49 (Canadá)", "et": "BC/49 (Kanada)", "fi": "BC/49 (Kanada)", "fr": "BC/49 (Canada)", "hu": "BC/49 (Kanada)", "is": "BC/49 (Kanada)", "it": "BC/49 (Canada)", "lt": "BC/49 (Kanada)", "lv": "BC/49 (Kanāda)", "nb": "BC/49 (Canada)", "nl": "BC/49 (Canada)", "pl": "BC/49 (Kanada)", "pt": "BC/49 (Canadá)", "sk": "BC/49 (Kanada)", "sv": "BC/49 (Kanada)", "el": "BC/49 (Καναδάς)"
+    },
+    "ordinal": 44
+  },
+  {
+    "id": "QUEBEC_49_CANADA",
+    "countries": ["CANADA"],
+    "canBetOnIt": true,
+    "mainNumberRangeStart": 1,
+    "mainNumberRangeEnd": 49,
+    "mainNumberCount": 6,
+    "bonusNumberRangeStart": 1,
+    "bonusNumberRangeEnd": 49,
+    "bonusNumberCount": 1,
+    "comboCountArray": [1, 2, 3, 5, 10],
+    "sourceStartDateStr": "2024-01-01",
+    "useYearlyStrategy": false,
+    "gamePath": "canada/quebec49-results",
+    "drawsPerWeek": 2,
+    "symbol": "⑥",
+    "costPerCombination": 3.0,
+    "drawDays": ["THURSDAY", "SUNDAY"],
+    "localizedNames": {
+      "en": "Quebec 49 (Canada)", "hr": "Quebec 49 (Kanada)", "de": "Quebec 49 (Kanada)", "sl": "Quebec 49 (Kanada)", "cs": "Quebec 49 (Kanada)", "da": "Quebec 49 (Canada)", "es": "Quebec 49 (Canadá)", "et": "Quebec 49 (Kanada)", "fi": "Quebec 49 (Kanada)", "fr": "Quebec 49 (Canada)", "hu": "Quebec 49 (Kanada)", "is": "Quebec 49 (Kanada)", "it": "Quebec 49 (Canada)", "lt": "Quebec 49 (Kanada)", "lv": "Quebec 49 (Kanāda)", "nb": "Quebec 49 (Canada)", "nl": "Quebec 49 (Canada)", "pl": "Quebec 49 (Kanada)", "pt": "Quebec 49 (Canadá)", "sk": "Quebec 49 (Kanada)", "sv": "Quebec 49 (Kanada)", "el": "Quebec 49 (Καναδάς)"
+    },
+    "ordinal": 45
+  },
+  {
+    "id": "ATLANTIC_BUCKO_CANADA",
+    "countries": ["CANADA"],
+    "canBetOnIt": true,
+    "mainNumberRangeStart": 1,
+    "mainNumberRangeEnd": 51,
+    "mainNumberCount": 5,
+    "bonusNumberRangeStart": 0,
+    "bonusNumberRangeEnd": 0,
+    "bonusNumberCount": 0,
+    "comboCountArray": [1, 2, 3, 5, 10],
+    "sourceStartDateStr": "2024-01-01",
+    "useYearlyStrategy": false,
+    "gamePath": "canada/atlantic49-results",
+    "drawsPerWeek": 7,
+    "symbol": "⑤",
+    "costPerCombination": 1.0,
+    "drawDays": ["MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY", "SUNDAY"],
+    "localizedNames": {
+      "en": "Atlantic Bucko (Canada)", "hr": "Atlantic Bucko (Kanada)", "de": "Atlantic Bucko (Kanada)", "sl": "Atlantic Bucko (Kanada)", "cs": "Atlantic Bucko (Kanada)", "da": "Atlantic Bucko (Canada)", "es": "Atlantic Bucko (Canadá)", "et": "Atlantic Bucko (Kanada)", "fi": "Atlantic Bucko (Kanada)", "fr": "Atlantic Bucko (Canada)", "hu": "Atlantic Bucko (Kanada)", "is": "Atlantic Bucko (Kanada)", "it": "Atlantic Bucko (Canada)", "lt": "Atlantic Bucko (Kanada)", "lv": "Atlantic Bucko (Kanāda)", "nb": "Atlantic Bucko (Canada)", "nl": "Atlantic Bucko (Canada)", "pl": "Atlantic Bucko (Kanada)", "pt": "Atlantic Bucko (Canadá)", "sk": "Atlantic Bucko (Kanada)", "sv": "Atlantic Bucko (Kanada)", "el": "Atlantic Bucko (Καναδάς)"
+    },
+    "ordinal": 46
+  },
+  {
+    "id": "LOTTO_SOUTH_AFRICA",
+    "countries": ["SOUTH_AFRICA"],
+    "canBetOnIt": false,
+    "mainNumberRangeStart": 1,
+    "mainNumberRangeEnd": 52,
+    "mainNumberCount": 6,
+    "bonusNumberRangeStart": 1,
+    "bonusNumberRangeEnd": 52,
+    "bonusNumberCount": 1,
+    "comboCountArray": [1, 2, 3, 5, 10],
+    "sourceStartDateStr": "2024-01-01",
+    "useYearlyStrategy": false,
+    "gamePath": "south-africa/lotto/results-history",
+    "drawsPerWeek": 2,
+    "symbol": "⑥",
+    "costPerCombination": 5.0,
+    "drawDays": ["WEDNESDAY", "SATURDAY"],
+    "localizedNames": {
+      "en": "Lotto (South Africa)", "hr": "Lotto (Južna Afrika)", "de": "Lotto (Südafrika)", "sl": "Lotto (Južna Afrika)", "cs": "Lotto (Jižní Afrika)", "da": "Lotto (Sydafrika)", "es": "Lotto (Sudáfrica)", "et": "Lotto (Lõuna-Aafrika)", "fi": "Lotto (Etelä-Afrikka)", "fr": "Lotto (Afrique du Sud)", "hu": "Lotto (Dél-afrikai Köztársaság)", "is": "Lotto (Suður-Afríka)", "it": "Lotto (Sudafrica)", "lt": "Lotto (Pietų Afrika)", "lv": "Lotto (Dienvidāfrika)", "nb": "Lotto (Sør-Afrika)", "nl": "Lotto (Zuid-Afrika)", "pl": "Lotto (RPA)", "pt": "Lotto (África do Sul)", "sk": "Lotto (Južná Afrika)", "sv": "Lotto (Sydafrika)", "el": "Lotto (Νότια Αφρική)"
+    },
+    "ordinal": 47
+  },
+  {
+    "id": "POWERBALL_SOUTH_AFRICA",
+    "countries": ["SOUTH_AFRICA"],
+    "canBetOnIt": false,
+    "mainNumberRangeStart": 1,
+    "mainNumberRangeEnd": 50,
+    "mainNumberCount": 5,
+    "bonusNumberRangeStart": 1,
+    "bonusNumberRangeEnd": 20,
+    "bonusNumberCount": 1,
+    "comboCountArray": [1, 2, 3, 5, 10],
+    "sourceStartDateStr": "2024-01-01",
+    "useYearlyStrategy": false,
+    "gamePath": "south-africa/powerball/results-history",
+    "drawsPerWeek": 2,
+    "symbol": "⑤",
+    "costPerCombination": 5.0,
+    "drawDays": ["TUESDAY", "FRIDAY"],
+    "localizedNames": {
+      "en": "Powerball (South Africa)", "hr": "Powerball (Južna Afrika)", "de": "Powerball (Südafrika)", "sl": "Powerball (Južna Afrika)", "cs": "Powerball (Jižní Afrika)", "da": "Powerball (Sydafrika)", "es": "Powerball (Sudáfrica)", "et": "Powerball (Lõuna-Aafrika)", "fi": "Powerball (Etelä-Afrikka)", "fr": "Powerball (Afrique du Sud)", "hu": "Powerball (Dél-afrikai Köztársaság)", "is": "Powerball (Suður-Afríka)", "it": "Powerball (Sudafrica)", "lt": "Powerball (Pietų Afrika)", "lv": "Powerball (Dienvidāfrika)", "nb": "Powerball (Sør-Afrika)", "nl": "Powerball (Zuid-Afrika)", "pl": "Powerball (RPA)", "pt": "Powerball (África do Sul)", "sk": "Powerball (Južná Afrika)", "sv": "Powerball (Sydafrika)", "el": "Powerball (Νότια Αφρική)"
+    },
+    "ordinal": 48
   }
+
 ]
