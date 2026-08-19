@@ -10,6 +10,7 @@
       }
     },
     "LOTTO_GERMANY": {
+      "table": "table.results, tr[bgcolor=#FFFADD]",
       "params": {
         "tryb": "rokmsc",
         "_month": "{M}",
@@ -17,6 +18,7 @@
       }
     },
     "PRIMITIVA_SPAIN": {
+      "table": "table.results, tr[bgcolor=#FFFADD]",
       "numbers": "ul.displayball:first-child > li:not(.dbx), ul.displayball:last-child > li:not(.dbx)",
       "params": {
         "tryb": "rokmsc",
@@ -119,6 +121,7 @@
       }
     },
     "SPORTKA": {
+      "table": ".okno, tr[bgcolor=#FFFADc]",
       "method": "POST",
       "params": {
         "tryb": "miesiac",
@@ -140,22 +143,46 @@
       }
     },
     "LOTTO_649_CANADA": {
-      "method": "GET"
+      "method": "POST",
+      "params": {
+        "mode": "month",
+        "year_month": "{yyyy-MM}"
+      }
     },
     "BC_49_CANADA": {
-      "method": "GET"
+      "method": "POST",
+      "params": {
+        "mode": "month",
+        "year_month": "{yyyy-MM}"
+      }
     },
     "QUEBEC_49_CANADA": {
-      "method": "GET"
+      "method": "POST",
+      "params": {
+        "mode": "month",
+        "year_month": "{yyyy-MM}"
+      }
     },
     "LOTTO_SOUTH_AFRICA": {
-      "method": "GET"
+      "method": "POST",
+      "params": {
+        "mode": "month",
+        "year_month": "{yyyy-MM}"
+      }
     },
     "POWERBALL_SOUTH_AFRICA": {
-      "method": "GET"
+      "method": "POST",
+      "params": {
+        "mode": "month",
+        "year_month": "{yyyy-MM}"
+      }
     },
     "ATLANTIC_BUCKO_CANADA": {
-      "method": "GET"
+      "method": "POST",
+      "params": {
+        "mode": "month",
+        "year_month": "{yyyy-MM}"
+      }
     }
   }
 }
