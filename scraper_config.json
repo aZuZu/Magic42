@@ -95,6 +95,39 @@
     },
     "LOTO_FRANCE": {
       "numbers": "ul.displayball:first-child > li:not(.dbx)"
+    },
+    "GOSLOTO_4X20": {
+      "method": "GET"
+    },
+    "GOSLOTO_5X36": {
+      "method": "GET"
+    },
+    "GOSLOTO_6X45": {
+      "method": "GET"
+    },
+    "GOSLOTO_7X49": {
+      "method": "GET"
+    },
+    "SPORTKA": {
+      "method": "POST",
+      "params": {
+        "tryb": "miesiac",
+        "rokmsc": "{yyyy-MM}"
+      }
+    },
+    "EUROMILIONY_CZ": {
+      "method": "POST",
+      "params": {
+        "tryb": "miesiac",
+        "rokmsc": "{yyyy-MM}"
+      }
+    },
+    "EUROMILIONY_SK": {
+      "method": "POST",
+      "params": {
+        "tryb": "miesiac",
+        "rokmsc": "{yyyy-MM}"
+      }
     }
   }
 }
