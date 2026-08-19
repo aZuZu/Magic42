@@ -79,7 +79,7 @@
       "table": "table.resultsTable tbody tr",
       "numbers": "ul.balls li:not(.superstar)",
       "method": "GET",
-      "urlSuffix": "yyyy",
+      "urlSuffix": "{yyyy}",
       "params": null
     },
     "GOSLOTO_4X20": {
