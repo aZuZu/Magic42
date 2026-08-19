@@ -1,8 +1,8 @@
 {
   "configs": {
     "DEFAULT": {
-      "table": "table.results3 tr, table.results tr, .xgame, tr[bgcolor=#FFFADD]",
-      "numbers": "ul.displayball > li:not(.dbx), ul.balls > li:not(.dbx), .displayball, td.res",
+      "table": "table.results3 tr",
+      "numbers": "ul.displayball > li:not(.dbx)",
       "method": "POST",
       "params": {
         "mode": "month",
@@ -40,6 +40,7 @@
       }
     },
     "LOTTO_SWEDEN": {
+      "table": "tr:has(.xgame), tr:has(.res)",
       "numbers": "ul.displayball:first-child > li:not(.dbx)",
       "params": {
         "tryb": "rokmsc",
@@ -48,6 +49,7 @@
       }
     },
     "MEGA_SENA_BRAZIL": {
+      "table": "tr:has(.xgame)",
       "params": {
         "tryb": "xmiesiac",
         "data_m": "{M}",
@@ -55,6 +57,7 @@
       }
     },
     "LOTO_SLOVENIA": {
+      "table": ".xgame, tr[bgcolor=#F4E591]",
       "params": {
         "tryb": "xmiesiac",
         "data_m": "{M}",
@@ -62,6 +65,7 @@
       }
     },
     "LOTTO_IRELAND": {
+      "table": ".okno, tr[bgcolor=#FFFADc]",
       "params": {
         "data_msc": "{M}",
         "data_rok": "{yyyy}"
