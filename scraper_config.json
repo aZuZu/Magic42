@@ -6,72 +6,72 @@
       "method": "POST",
       "params": {
         "mode": "month",
-        "year_month": "yyyy-MM"
+        "year_month": "{yyyy-MM}"
       }
     },
     "LOTTO_GERMANY": {
       "params": {
         "tryb": "rokmsc",
-        "_month": "M",
-        "_year": "yyyy"
+        "_month": "{M}",
+        "_year": "{yyyy}"
       }
     },
     "PRIMITIVA_SPAIN": {
       "numbers": "ul.displayball:first-child > li:not(.dbx), ul.displayball:last-child > li:not(.dbx)",
       "params": {
         "tryb": "rokmsc",
-        "_month": "M",
-        "_year": "yyyy"
+        "_month": "{M}",
+        "_year": "{yyyy}"
       }
     },
     "LOTTO_FINLAND": {
       "numbers": "ul.displayball:first-child > li:not(.dbx)",
       "params": {
         "tryb": "rokmsc",
-        "_month": "M",
-        "_year": "yyyy"
+        "_month": "{M}",
+        "_year": "{yyyy}"
       }
     },
     "SUPER_LOTO_UKRAINE": {
       "params": {
         "tryb": "rokmsc",
-        "_month": "M",
-        "_year": "yyyy"
+        "_month": "{M}",
+        "_year": "{yyyy}"
       }
     },
     "LOTTO_SWEDEN": {
       "numbers": "ul.displayball:first-child > li:not(.dbx)",
       "params": {
         "tryb": "rokmsc",
-        "_month": "M",
-        "_year": "yyyy"
+        "_month": "{M}",
+        "_year": "{yyyy}"
       }
     },
     "MEGA_SENA_BRAZIL": {
       "params": {
         "tryb": "xmiesiac",
-        "data_m": "M",
-        "data_r": "yyyy"
+        "data_m": "{M}",
+        "data_r": "{yyyy}"
       }
     },
     "LOTO_SLOVENIA": {
       "params": {
         "tryb": "xmiesiac",
-        "data_m": "M",
-        "data_r": "yyyy"
+        "data_m": "{M}",
+        "data_r": "{yyyy}"
       }
     },
     "LOTTO_IRELAND": {
       "params": {
-        "data_msc": "M",
-        "data_rok": "yyyy"
+        "data_msc": "{M}",
+        "data_rok": "{yyyy}"
       }
     },
     "EUROMILLIONS": {
       "table": "div.xgm2 > div",
       "params": {
-        "d2": "M",
-        "d3": "yyyy",
+        "d2": "{M}",
+        "d3": "{yyyy}",
         "zak": "50"
       }
     },
@@ -87,7 +87,7 @@
       "method": "POST",
       "params": {
         "mode": "month",
-        "year_month": "yyyy-MM"
+        "year_month": "{yyyy-MM}"
       }
     },
     "GOSLOTO_5X36": {
@@ -95,7 +95,7 @@
       "method": "POST",
       "params": {
         "mode": "month",
-        "year_month": "yyyy-MM"
+        "year_month": "{yyyy-MM}"
       }
     },
     "GOSLOTO_6X45": {
@@ -103,7 +103,7 @@
       "method": "POST",
       "params": {
         "mode": "month",
-        "year_month": "yyyy-MM"
+        "year_month": "{yyyy-MM}"
       }
     },
     "GOSLOTO_7X49": {
@@ -111,28 +111,28 @@
       "method": "POST",
       "params": {
         "mode": "month",
-        "year_month": "yyyy-MM"
+        "year_month": "{yyyy-MM}"
       }
     },
     "SPORTKA": {
       "method": "POST",
       "params": {
         "tryb": "miesiac",
-        "rokmsc": "yyyy-MM"
+        "rokmsc": "{yyyy-MM}"
       }
     },
     "EUROMILIONY_CZ": {
       "method": "POST",
       "params": {
         "tryb": "miesiac",
-        "rokmsc": "yyyy-MM"
+        "rokmsc": "{yyyy-MM}"
       }
     },
     "EUROMILIONY_SK": {
       "method": "POST",
       "params": {
         "tryb": "miesiac",
-        "rokmsc": "yyyy-MM"
+        "rokmsc": "{yyyy-MM}"
       }
     },
     "LOTTO_649_CANADA": {
