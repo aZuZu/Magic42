@@ -363,7 +363,7 @@
     "costPerCombination": 1.25,
     "drawDays": ["WEDNESDAY", "SATURDAY"],
     "localizedNames": {
-      "en": "Belgium Lotto", "hr": "Belgijski Loto", "de": "Belgisches Lotto", "sl": "Belgijski Loto", "cs": "Belgické Lotto", "da": "Belgisk Lotto", "es": "Lotto Bélgica", "et": "Belgia Loto", "fi": "Belgian Lotto", "fr": "Lotto Belgique", "hu": "Belga Lottó", "is": "Belgískt Lottó", "it": "Lotto Belgio", "lt": "Belgijos Lotto", "lv": "Beļģijas Lotto", "nb": "Belgisk Lotto", "nl": "Lotto België", "pl": "Lotto Belgia", "pt": "Lotto Bélgica", "sk": "Belgické Lotto", "sv": "Belgisk Lotto", "el": "Lotto Βελγίου"
+      "en": "Belgium Lotto", "hr": "Belgijski Loto", "de": "Belgisches Lotto", "sl": "Belgijski Loto", "cs": "Belgické Lotto", "da": "Belgisk Lotto", "es": "Lotto Belgique", "et": "Belgia Loto", "fi": "Belgian Lotto", "fr": "Lotto Belgique", "hu": "Belga Lottó", "is": "Belgískt Lottó", "it": "Lotto Belgio", "lt": "Belgijos Lotto", "lv": "Beļģijas Lotto", "nb": "Belgisk Lotto", "nl": "Lotto België", "pl": "Lotto Belgia", "pt": "Lotto Bélgica", "sk": "Belgické Lotto", "sv": "Belgisk Lotto", "el": "Lotto Βελγίου"
     },
     "ordinal": 15
   },
@@ -478,7 +478,7 @@
     "costPerCombination": 2.0,
     "drawDays": ["SATURDAY"],
     "localizedNames": {
-      "en": "Netherlands Lotto", "hr": "Nizozemski Loto", "de": "Niederländisches Lotto", "sl": "Nizozemski Loto", "cs": "Nizozemské Lotto", "da": "Hollandsk Lotto", "es": "Lotto Países Bajos", "et": "Hollandi Loto", "fi": "Alankomaiden Lotto", "fr": "Lotto Pays-Bas", "hu": "Holland Lottó", "is": "Hollenskt Lottó", "it": "Lotto Paesi Bassi", "lt": "Nyderlandų Lotto", "lv": "Nīderlandes Lotto", "nb": "Nederlandsk Lotto", "nl": "Lotto Nederland", "pl": "Lotto Holandia", "pt": "Lotto Países Baixos", "sk": "Holandské Lotto", "sv": "Nederländsk Lotto", "el": "Lotto Ολλανδίας"
+      "en": "Netherlands Lotto", "hr": "Nizozemski Loto", "de": "Niederländisches Lotto", "sl": "Nizozemski Loto", "cs": "Nizozemské Lotto", "da": "Hollandsk Lotto", "es": "Lotto Países Bajos", "et": "Hollandi Loto", "fi": "Alankomaiden Lotto", "fr": "Lotto Pays-Bas", "hu": "Holland Lottó", "is": "Hollenskt Lottó", "it": "Lotto Paesi Bassi", "lt": "Nyderlandų Lotto", "lv": "Nīderlandes Lotto", "nb": "Nederlandsk Lotto", "nl": "Lotto Letland", "pl": "Lotto Holandia", "pt": "Lotto Países Baixos", "sk": "Holandské Lotto", "sv": "Nederländsk Lotto", "el": "Lotto Ολλανδίας"
     },
     "ordinal": 20
   },
@@ -639,7 +639,7 @@
     "costPerCombination": 1.0,
     "drawDays": ["SATURDAY"],
     "localizedNames": {
-      "en": "Finland Lotto", "hr": "Finski Loto", "de": "Finnisches Lotto", "sl": "Finski Loto", "cs": "Finské Lotto", "da": "Finsk Lotto", "es": "Lotto Finlandia", "et": "Soome Loto", "fi": "Suomen Lotto", "fr": "Lotto Finlande", "hu": "Finn Lottó", "is": "Finnskt Lottó", "it": "Lotto Finlandia", "lt": "Suomijos Lotto", "lv": "Somijas Lotto", "nb": "Finsk Lotto", "nl": "Lotto Finland", "pl": "Lotto Finlandia", "pt": "Lotto Finlândia", "sk": "Fínske Lotto", "sv": "Finsk Lotto", "el": "Lotto Φινλανδίας"
+      "en": "Finland Lotto", "hr": "Finski Loto", "de": "Finnisches Lotto", "sl": "Finski Loto", "cs": "Finské Lotto", "da": "Finsk Lotto", "es": "Lotto Finlandia", "et": "Soome Loto", "fi": "Soome Loto", "fr": "Lotto Finlande", "hu": "Finn Lottó", "is": "Finnskt Lottó", "it": "Lotto Finlandia", "lt": "Suomijos Lotto", "lv": "Somijas Lotto", "nb": "Finsk Lotto", "nl": "Lotto Finland", "pl": "Lotto Finlandia", "pt": "Lotto Finlândia", "sk": "Fínske Lotto", "sv": "Finsk Lotto", "el": "Lotto Φινλανδίας"
     },
     "ordinal": 27
   },
@@ -915,7 +915,7 @@
     "costPerCombination": 1.5,
     "drawDays": ["TUESDAY", "SATURDAY"],
     "localizedNames": {
-      "en": "Euromilióny (Slovakia)", "hr": "Euromilióny (Slovačka)", "de": "Euromilióny (Slowakei)", "sl": "Euromilióny (Slovaška)", "cs": "Euromilióny (Slovensko)", "da": "Euromilióny (Slovakiet)", "es": "Euromilióny (Eslovaquia)", "et": "Euromilióny (Slovakkia)", "fi": "Euromilióny (Slovakia)", "fr": "Euromilióny (Slovaquie)", "hu": "Euromilióny (Szlovákia)", "is": "Euromilióny (Slóvakía)", "it": "Euromilióny (Slovacchia)", "lt": "Euromilióny (Slovakija)", "lv": "Euromilióny (Slovākija)", "nb": "Euromilióny (Slovakia)", "nl": "Euromilióny (Slowakije)", "pl": "Euromilióny (Słowacija)", "pt": "Euromilióny (Eslováquia)", "sk": "Euromilióny", "sv": "Euromilióny (Slovakien)", "el": "Euromilióny (Σλοβακία)"
+      "en": "Euromilióny (Slovakia)", "hr": "Euromilióny (Slovačka)", "de": "Euromilióny (Slowakei)", "sl": "Euromilióny (Slovaška)", "cs": "Euromilióny (Slovensko)", "da": "Euromilióny (Slovakiet)", "es": "Euromilióny (Eslovaquia)", "et": "Euromilióny (Slovakkia)", "fi": "Euromilióny (Slovakia)", "fr": "Euromilióny (Slovaquie)", "hu": "Euromilióny (Szlovákia)", "is": "Euromilióny (Slóvakía)", "it": "Euromilióny (Slovacchia)", "lt": "Euromilióny (Slovakija)", "lv": "Euromilióny (Slovākija)", "nb": "Euromilióny (Slovakia)", "nl": "Euromilióny (Slowakije)", "pl": "Euromilióny (Słowacja)", "pt": "Euromilióny (Eslováquia)", "sk": "Euromilióny", "sv": "Euromilióny (Slovakien)", "el": "Euromilióny (Σλοβακία)"
     },
     "ordinal": 39
   },
@@ -1056,5 +1056,51 @@
       "en": "Powerball (South Africa)", "hr": "Powerball (Južna Afrika)", "de": "Powerball (Südafrika)", "sl": "Powerball (Južna Afrika)", "cs": "Powerball (Jižní Afrika)", "da": "Powerball (Sydafrika)", "es": "Powerball (Sudáfrica)", "et": "Powerball (Lõuna-Aafrika)", "fi": "Powerball (Etelä-Afrikka)", "fr": "Powerball (Afrique du Sud)", "hu": "Powerball (Dél-afrikai Köztársaság)", "is": "Powerball (Suður-Afríka)", "it": "Powerball (Sudafrica)", "lt": "Powerball (Pietų Afrika)", "lv": "Powerball (Dienvidāfrika)", "nb": "Powerball (Sør-Afrika)", "nl": "Powerball (Zuid-Afrika)", "pl": "Powerball (RPA)", "pt": "Powerball (África do Sul)", "sk": "Powerball (Južná Afrika)", "sv": "Powerball (Sydafrika)", "el": "Powerball (Νότια Αφρική)"
     },
     "ordinal": 45
+  },
+  {
+    "id": "LOTTO_MAX_CANADA",
+    "countries": ["CANADA"],
+    "canBetOnIt": true,
+    "mainNumberRangeStart": 1,
+    "mainNumberRangeEnd": 50,
+    "mainNumberCount": 7,
+    "bonusNumberRangeStart": 1,
+    "bonusNumberRangeEnd": 50,
+    "bonusNumberCount": 1,
+    "comboCountArray": [1, 2, 3, 5, 10],
+    "sourceStartDateStr": "2009-09-25",
+    "scrapeStrategy": 1,
+    "gamePath": "canada/lottomax-results",
+    "drawsPerWeek": 2,
+    "symbol": "⑦",
+    "costPerCombination": 5.0,
+    "drawDays": ["TUESDAY", "FRIDAY"],
+    "localizedNames": {
+      "en": "Lotto Max (Canada)", "hr": "Lotto Max (Kanada)"
+    },
+    "ordinal": 46
+  },
+  {
+    "id": "LOTO_FACIL_BRAZIL",
+    "countries": ["BRAZIL"],
+    "canBetOnIt": true,
+    "mainNumberRangeStart": 1,
+    "mainNumberRangeEnd": 25,
+    "mainNumberCount": 15,
+    "bonusNumberRangeStart": 0,
+    "bonusNumberRangeEnd": 0,
+    "bonusNumberCount": 0,
+    "comboCountArray": [1, 2, 3, 5, 10],
+    "sourceStartDateStr": "2003-09-29",
+    "scrapeStrategy": 1,
+    "gamePath": "brazil/lotofacil-results",
+    "drawsPerWeek": 6,
+    "symbol": "⑮",
+    "costPerCombination": 0.5,
+    "drawDays": ["MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY"],
+    "localizedNames": {
+      "en": "Loto Fácil (Brazil)", "hr": "Loto Fácil (Brazil)"
+    },
+    "ordinal": 47
   }
 ]
