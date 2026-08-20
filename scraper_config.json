@@ -77,6 +77,7 @@
     },
     "UK_LOTTO": {
       "table": "table.results, tr[bgcolor=#FFFADD]",
+      "numbers": "ul.displayball > li:not(.dbx)",
       "method": "POST",
       "params": {
         "mode": "month",
@@ -85,6 +86,8 @@
     },
     "EUROMILLIONS": {
       "table": "div.xgm2 > div",
+      "numbers": "ul.displayball > li:not(.dbx)",
+      "method": "POST",
       "params": {
         "d2": "{M}",
         "d3": "{yyyy}",
@@ -97,14 +100,6 @@
       "method": "GET",
       "urlSuffix": "{yyyy}",
       "params": null
-    },
-    "GOSLOTO_4X20": {
-      "table": "tr:has(.xgame), tr[bgcolor=#FFFADD], table.results3 tr",
-      "method": "POST",
-      "params": {
-        "mode": "selectmonth",
-        "data": "{yyyy-MM}-01"
-      }
     },
     "GOSLOTO_4X20": {
       "table": "tr:has(.xgame), tr[bgcolor=#FFFADD], table.results3 tr",
