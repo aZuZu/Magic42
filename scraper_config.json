@@ -60,6 +60,14 @@
         "data_r": "{yyyy}"
       }
     },
+    "LOTO_FACIL_BRAZIL": {
+      "table": "tr:has(.xgame)",
+      "params": {
+        "tryb": "xmiesiac",
+        "data_m": "{M}",
+        "data_r": "{yyyy}"
+      }
+    },
     "LOTO_SLOVENIA": {
       "table": ".xgame, tr[bgcolor=#F4E591]",
       "params": {
@@ -101,15 +109,6 @@
       "urlSuffix": "{yyyy}",
       "params": null
     },
-    "GOSLOTO_5X50": {
-      "table": "table.results3 tr",
-      "numbers": "ul.displayball > li:not(.dbx)",
-      "method": "POST",
-      "params": {
-        "mode": "month",
-        "year_month": "{yyyy-MM}"
-      }
-    },
     "SPORTKA": {
       "table": ".okno, tr[bgcolor=#FFFADc]",
       "method": "POST",
@@ -148,6 +147,13 @@
       }
     },
     "QUEBEC_49_CANADA": {
+      "method": "POST",
+      "params": {
+        "mode": "month",
+        "year_month": "{yyyy-MM}"
+      }
+    },
+    "LOTTO_MAX_CANADA": {
       "method": "POST",
       "params": {
         "mode": "month",
