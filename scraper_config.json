@@ -101,36 +101,13 @@
       "urlSuffix": "{yyyy}",
       "params": null
     },
-    "GOSLOTO_4X20": {
-      "table": "tr:has(.xgame), tr[bgcolor=#FFFADD], table.results3 tr",
+    "GOSLOTO_5X50": {
+      "table": "table.results3 tr",
+      "numbers": "ul.displayball > li:not(.dbx)",
       "method": "POST",
       "params": {
-        "tryb": "data",
-        "data": "{yyyy-MM-dd}"
-      }
-    },
-    "GOSLOTO_5X36": {
-      "table": "tr:has(.xgame), tr[bgcolor=#FFFADD], table.results3 tr",
-      "method": "POST",
-      "params": {
-        "tryb": "data",
-        "data": "{yyyy-MM-dd}"
-      }
-    },
-    "GOSLOTO_6X45": {
-      "table": "tr:has(.xgame), tr[bgcolor=#FFFADD], table.results3 tr",
-      "method": "POST",
-      "params": {
-        "tryb": "data",
-        "data": "{yyyy-MM-dd}"
-      }
-    },
-    "GOSLOTO_7X49": {
-      "table": "tr:has(.xgame), tr[bgcolor=#FFFADD], table.results3 tr",
-      "method": "POST",
-      "params": {
-        "tryb": "data_button",
-        "data": "{dd.MM.yyyy}"
+        "mode": "month",
+        "year_month": "{yyyy-MM}"
       }
     },
     "SPORTKA": {
