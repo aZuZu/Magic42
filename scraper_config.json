@@ -105,28 +105,28 @@
       "table": "tr:has(.xgame), tr[bgcolor=#FFFADD], table.results3 tr",
       "method": "POST",
       "params": {
-        "data": "{yyyy-MM}-01"
+        "data": "{yyyy-MM-dd}"
       }
     },
     "GOSLOTO_5X36": {
       "table": "tr:has(.xgame), tr[bgcolor=#FFFADD], table.results3 tr",
       "method": "POST",
       "params": {
-        "data": "{yyyy-MM}-01"
+        "data": "{yyyy-MM-dd}"
       }
     },
     "GOSLOTO_6X45": {
       "table": "tr:has(.xgame), tr[bgcolor=#FFFADD], table.results3 tr",
       "method": "POST",
       "params": {
-        "data": "{yyyy-MM}-01"
+        "data": "{yyyy-MM-dd}"
       }
     },
     "GOSLOTO_7X49": {
       "table": "tr:has(.xgame), tr[bgcolor=#FFFADD], table.results3 tr",
       "method": "POST",
       "params": {
-        "data": "{yyyy-MM}-01"
+        "data": "{yyyy-MM-dd}"
       }
     },
     "SPORTKA": {
