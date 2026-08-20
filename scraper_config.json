@@ -130,7 +130,7 @@
       "method": "POST",
       "params": {
         "tryb": "data_button",
-        "data": "{yyyy-MM-dd}"
+        "data": "{dd.MM.yyyy}"
       }
     },
     "SPORTKA": {
