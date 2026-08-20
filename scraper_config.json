@@ -105,6 +105,7 @@
       "table": "tr:has(.xgame), tr[bgcolor=#FFFADD], table.results3 tr",
       "method": "POST",
       "params": {
+        "tryb": "data",
         "data": "{yyyy-MM-dd}"
       }
     },
@@ -112,6 +113,7 @@
       "table": "tr:has(.xgame), tr[bgcolor=#FFFADD], table.results3 tr",
       "method": "POST",
       "params": {
+        "tryb": "data",
         "data": "{yyyy-MM-dd}"
       }
     },
@@ -119,6 +121,7 @@
       "table": "tr:has(.xgame), tr[bgcolor=#FFFADD], table.results3 tr",
       "method": "POST",
       "params": {
+        "tryb": "data",
         "data": "{yyyy-MM-dd}"
       }
     },
@@ -126,6 +129,7 @@
       "table": "tr:has(.xgame), tr[bgcolor=#FFFADD], table.results3 tr",
       "method": "POST",
       "params": {
+        "tryb": "data",
         "data": "{yyyy-MM-dd}"
       }
     },
