@@ -129,7 +129,7 @@
       "table": "tr:has(.xgame), tr[bgcolor=#FFFADD], table.results3 tr",
       "method": "POST",
       "params": {
-        "tryb": "data",
+        "tryb": "data_button",
         "data": "{yyyy-MM-dd}"
       }
     },
