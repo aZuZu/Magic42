@@ -1102,5 +1102,51 @@
       "en": "Loto Fácil (Brazil)", "hr": "Loto Fácil (Brazil)"
     },
     "ordinal": 47
+  },
+  {
+    "id": "MARK_SIX_HK",
+    "countries": ["HONG_KONG"],
+    "canBetOnIt": true,
+    "mainNumberRangeStart": 1,
+    "mainNumberRangeEnd": 49,
+    "mainNumberCount": 6,
+    "bonusNumberRangeStart": 1,
+    "bonusNumberRangeEnd": 49,
+    "bonusNumberCount": 1,
+    "comboCountArray": [1, 2, 3, 5, 10],
+    "sourceStartDateStr": "2010-01-01",
+    "scrapeStrategy": 1,
+    "gamePath": "marksix/results",
+    "drawsPerWeek": 3,
+    "symbol": "⑥",
+    "costPerCombination": 1.3,
+    "drawDays": ["TUESDAY", "THURSDAY", "SUNDAY"],
+    "localizedNames": {
+      "en": "Mark Six (Hong Kong)", "hr": "Mark Six (Hong Kong)"
+    },
+    "ordinal": 48
+  },
+  {
+    "id": "CHINA_UNION_LOTTO",
+    "countries": ["CHINA"],
+    "canBetOnIt": true,
+    "mainNumberRangeStart": 1,
+    "mainNumberRangeEnd": 33,
+    "mainNumberCount": 6,
+    "bonusNumberRangeStart": 1,
+    "bonusNumberRangeEnd": 16,
+    "bonusNumberCount": 1,
+    "comboCountArray": [1, 2, 3, 5, 10],
+    "sourceStartDateStr": "2020-01-01",
+    "scrapeStrategy": 2,
+    "gamePath": "https://lotto-china.net/en/results/",
+    "drawsPerWeek": 3,
+    "symbol": "⑥",
+    "costPerCombination": 0.3,
+    "drawDays": ["TUESDAY", "THURSDAY", "SUNDAY"],
+    "localizedNames": {
+      "en": "China Union Lotto", "hr": "Kineski Union Lotto"
+    },
+    "ordinal": 49
   }
 ]
