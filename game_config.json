@@ -1,6 +1,6 @@
 [
   {
-    "id": "EUROJACKPO",
+    "id": "EUROJACKPOT",
     "countries": ["CROATIA", "CZECHIA", "DENMARK", "ESTONIA", "FINLAND", "GERMANY", "GREECE", "HUNGARY", "ICELAND", "ITALY", "LATVIA", "LITHUANIA", "NETHERLANDS", "NORWAY", "POLAND", "SLOVAKIA", "SLOVENIA", "SPAIN", "SWEDEN", "BELGIUM"],
     "canBetOnIt": false,
     "mainNumberRangeStart": 1,
