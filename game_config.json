@@ -210,7 +210,7 @@
     "costPerCombination": 2.2,
     "drawDays": ["MONDAY", "WEDNESDAY", "SATURDAY"],
     "localizedNames": {
-      "en": "Loto France", "hr": "Francuski Loto", "de": "Loto France", "sl": "Francoski Loto", "cs": "Francouzské Loto", "da": "Fransk Loto", "es": "Loto Francia", "et": "Prantsuse Loto", "fi": "Ranskan Loto", "fr": "Loto France", "hu": "Francia Loto", "is": "Franskt Loto", "it": "Loto Francia", "lt": "Prancūzijos Loto", "lv": "Francijas Loto", "nb": "Fransk Loto", "nl": "Loto Frankrijk", "pl": "Loto Francja", "pt": "Loto França", "sk": "Francúzske Loto", "sv": "Fransk Loto", "el": "Loto Γαλλίας"
+      "en": "Loto France", "hr": "Francuski Loto", "de": "Loto France", "sl": "Francoski Loto", "cs": "Francouzské Loto", "da": "Fransk Loto", "es": "Loto Francia", "et": "Prantsuse Loto", "fi": "Ranskan Loto", "fr": "Loto France", "hu": "Francia Loto", "is": "Franskt Loto", "it": "Loto Francia", "lt": "Prancūzijos Loto", "lv": "Francijas Loto", "nb": "Fransk Loto", "nl": "Loto Frankrijk", "pl": "Loto Francja", "pt": "Loto França", "sk": "Francúzske Loto", "sv": "Fransk Loto", "el": "Lotto Γαλλίας"
     },
     "source": "LE",
     "ordinal": 8
@@ -426,7 +426,7 @@
     "costPerCombination": 1.0,
     "drawDays": ["SATURDAY"],
     "localizedNames": {
-      "en": "Iceland Lotto", "hr": "Islandski Loto", "de": "Isländisches Lotto", "sl": "Islandski Loto", "cs": "Islandské Lotto", "da": "Islandsk Lotto", "es": "Lotto Islandia", "et": "Islandi Loto", "fi": "Islannin Lotto", "fr": "Lotto Islande", "hu": "Izlandi Lottó", "is": "Íslenskt Lottó", "it": "Lotto Islanda", "lt": "Islandijos Lotto", "lv": "Islandes Lotto", "nb": "Islandsk Lotto", "nl": "Lotto IJsland", "pl": "Lotto Islandia", "pt": "Lotto Islândia", "sk": "Islandské Lotto", "sv": "Isländsk Lotto", "el": "Lotto Ισλανδίας"
+      "en": "Iceland Lotto", "hr": "Islandski Loto", "de": "Isländisches Lotto", "sl": "Islandski Loto", "cs": "Islandské Lotto", "da": "Islandsk Lotto", "es": "Lotto Islandia", "et": "Islandi Loto", "fi": "Islannin Lotto", "fr": "Lotto Islande", "hu": "Izlandi Lottó", "is": "Íslenskt Lottó", "it": "Lotto Islanda", "lt": "Islandijos Lotto", "lv": "Islandes Lotto", "nb": "Islandsk Lotto", "nl": "Lotto IJsland", "pl": "Lotto Islandia", "pt": "Lotto Islândia", "sk": "Islandské Lotto", "sv": "Íslenskt lottó", "el": "Lotto Ισλανδίας"
     },
     "source": "LE",
     "ordinal": 17
@@ -498,7 +498,7 @@
     "costPerCombination": 2.0,
     "drawDays": ["SATURDAY"],
     "localizedNames": {
-      "en": "Netherlands Lotto", "hr": "Nizozemski Loto", "de": "Niederländisches Lotto", "sl": "Nizozemski Loto", "cs": "Nizozemské Lotto", "da": "Hollandsk Lotto", "es": "Lotto Países Bajos", "et": "Hollandi Loto", "fi": "Alankomaiden Lotto", "fr": "Lotto Pays-Bas", "hu": "Holland Lottó", "is": "Hollenskt Lottó", "it": "Lotto Paesi Bassi", "lt": "Nyderlandų Lotto", "lv": "Nīderlandes Lotto", "nb": "Nederlandsk Lotto", "nl": "Lotto Letland", "pl": "Lotto Holandia", "pt": "Lotto Países Baixos", "sk": "Holandské Lotto", "sv": "Nederländsk Lotto", "el": "Lotto Ολλανδίας"
+      "en": "Netherlands Lotto", "hr": "Nizozemski Loto", "de": "Niederländisches Lotto", "sl": "Nizozemski Loto", "cs": "Nizozemské Lotto", "da": "Hollandsk Lotto", "es": "Lotto Países Bajos", "et": "Hollandi Loto", "fi": "Alankomaiden Lotto", "fr": "Lotto Pays-Bas", "hu": "Holland Lottó", "is": "Hollenskt Lottó", "it": "Lotto Paesi Bassi", "lt": "Nyderlandų Lotto", "lv": "Nīderlandes Lotto", "nb": "Nederlandsk Lotto", "nl": "Lotto Nederland", "pl": "Lotto Holandia", "pt": "Lotto Países Baixos", "sk": "Holandské Lotto", "sv": "Nederländsk Lotto", "el": "Lotto Ολλανδίας"
     },
     "source": "LE",
     "ordinal": 20
@@ -540,13 +540,13 @@
     "comboCountArray": [1, 2, 3, 5, 10],
     "sourceStartDateStr": "2020-05-20",
     "scrapeStrategy": 1,
-    "gamePath": "slovakia/loto-results",
+    "gamePath": "slovakia/lotto-results",
     "drawsPerWeek": 2,
     "symbol": "⑥",
     "costPerCombination": 1.0,
     "drawDays": ["WEDNESDAY", "SUNDAY"],
     "localizedNames": {
-      "en": "Slovakia Loto", "hr": "Slovački Loto", "de": "Slowakisches Loto", "sl": "Slovaški Loto", "cs": "Slovenské Loto", "da": "Slovakisk Loto", "es": "Loto Eslovaquia", "et": "Slovaki Loto", "fi": "Slovakian Loto", "fr": "Loto Slovaquie", "hu": "Szlovák Loto", "is": "Slóvakískt Loto", "it": "Loto Slovacchia", "lt": "Slovakijos Loto", "lv": "Slovākijas Loto", "nb": "Slovakisk Loto", "nl": "Lotto Slowakije", "pl": "Loto Słowacja", "pt": "Loto Eslováquia", "sk": "Slovenské Loto", "sv": "Slovakisk Loto", "el": "Loto Σλοβακίας"
+      "en": "Slovakia Loto", "hr": "Slovački Loto", "de": "Slowakisches Loto", "sl": "Slovaški Loto", "cs": "Slovenské Loto", "da": "Slovakisk Loto", "es": "Lotto Eslovaquia", "et": "Slovaki Loto", "fi": "Slovakian Loto", "fr": "Loto Slovaquie", "hu": "Szlovák Loto", "is": "Slóvakískt Loto", "it": "Lotto Slovacchia", "lt": "Slovakijos Loto", "lv": "Slovākijas Loto", "nb": "Slovakisk Loto", "nl": "Lotto Slowakije", "pl": "Loto Słowacja", "pt": "Loto Eslováquia", "sk": "Slovenské Loto", "sv": "Slovakisk Loto", "el": "Lotto Σλοβακίας"
     },
     "source": "LE",
     "ordinal": 22
@@ -570,7 +570,7 @@
     "costPerCombination": 1.0,
     "drawDays": ["WEDNESDAY", "SATURDAY"],
     "localizedNames": {
-      "en": "Sweden Lotto", "hr": "Švedski Loto", "de": "Schwedisches Lotto", "sl": "Švedski Loto", "cs": "Švédské Lotto", "da": "Svensk Lotto", "es": "Lotto Suecia", "et": "Rootsi Loto", "fi": "Ruotsin Lotto", "fr": "Lotto Suède", "hu": "Svéd Lottó", "is": "Sænskt Lottó", "it": "Lotto Svezia", "lt": "Švedijos Lotto", "lv": "Zviedrijas Lotto", "nb": "Svensk Lotto", "nl": "Lotto Zweden", "pl": "Lotto Szwecja", "pt": "Lotto Suécia", "sk": "Švédske Lotto", "sv": "Svensk Lotto", "el": "Lotto Σουηδίας"
+      "en": "Sweden Lotto", "hr": "Švedski Loto", "de": "Schwedisches Lotto", "sl": "Švedski Loto", "cs": "Švédské Lotto", "da": "Svensk Lotto", "es": "Lotto Suecia", "et": "Rootsi Loto", "fi": "Ruotsi Loto", "fr": "Lotto Suède", "hu": "Svéd Lottó", "is": "Sænskt Lottó", "it": "Lotto Svezia", "lt": "Švedijos Lotto", "lv": "Zviedrijas Lotto", "nb": "Svensk Lotto", "nl": "Lotto Zweden", "pl": "Lotto Szwecja", "pt": "Lotto Suécia", "sk": "Švédske Lotto", "sv": "Svensk Lotto", "el": "Lotto Σουηδίας"
     },
     "source": "LE",
     "ordinal": 23
@@ -642,7 +642,7 @@
     "costPerCombination": 1.0,
     "drawDays": ["SATURDAY"],
     "localizedNames": {
-      "en": "Denmark Lotto", "hr": "Danski Loto", "de": "Dänisches Lotto", "sl": "Danski Loto", "cs": "Dánské Lotto", "da": "Dansk Lotto", "es": "Lotto Dinamarca", "et": "Taani Loto", "fi": "Tanskan Lotto", "fr": "Lotto Danemark", "hu": "Dán Lottó", "is": "Danskt Lottó", "it": "Lotto Danimarca", "lt": "Danijos Lotto", "lv": "Dānijas Lotto", "nb": "Dansk Lotto", "nl": "Lotto Denemarken", "pl": "Lotto Dania", "pt": "Lotto Dinamarca", "sk": "Dánske Lotto", "sv": "Dansk Lotto", "el": "Lotto Δανίας"
+      "en": "Denmark Lotto", "hr": "Danski Loto", "de": "Dänisches Lotto", "sl": "Danski Loto", "cs": "Dánske Lotto", "da": "Dansk Lotto", "es": "Lotto Dinamarca", "et": "Taani Loto", "fi": "Tanskan Lotto", "fr": "Lotto Danemark", "hu": "Dán Lottó", "is": "Danskt Lottó", "it": "Lotto Danimarca", "lt": "Danijos Lotto", "lv": "Dānijas Lotto", "nb": "Dansk Lotto", "nl": "Lotto Denemarken", "pl": "Lotto Dania", "pt": "Lotto Dinamarca", "sk": "Dánske Lotto", "sv": "Dansk Lotto", "el": "Lotto Δανίας"
     },
     "source": "LE",
     "ordinal": 26
@@ -714,7 +714,7 @@
     "costPerCombination": 1.0,
     "drawDays": ["SUNDAY"],
     "localizedNames": {
-      "en": "Lithuania Loto", "hr": "Litavski Perlas", "de": "Lithuania Loto", "sl": "Litovski Perlas", "cs": "LitevskÃ½ Perlas", "da": "Lithuania Loto", "es": "Lithuania Loto", "et": "Lithuania Loto", "fi": "Lithuania Loto", "fr": "Lithuania Loto", "hu": "Lithuania Loto", "is": "Lithuania Loto", "it": "Lithuania Loto", "lt": "Lithuania Loto", "lv": "Lithuania Loto", "nb": "Lithuania Loto", "nl": "Lithuania Loto", "pl": "Lithuania Loto", "pt": "Lithuania Loto", "sk": "Lithuania Loto", "sv": "Lithuania Loto", "el": "Lithuania Loto"
+      "en": "Lithuania Jėga", "hr": "Litavska Jėga", "de": "Litauen Jėga", "sl": "Litovska Jėga", "cs": "Litevská Jėga", "da": "Litauen Jėga", "es": "Jėga Lituania", "et": "Leedu Jėga", "fi": "Liettuan Jėga", "fr": "Jėga Lituanie", "hu": "Litván Jėga", "is": "Litháísk Jėga", "it": "Jėga Lituania", "lt": "Jėga", "lv": "Lietuvas Jėga", "nb": "Litauen Jėga", "nl": "Litouwen Jėga", "pl": "Litewska Jėga", "pt": "Jėga Lituânia", "sk": "Litovská Jėga", "sv": "Litauen Jėga", "el": "Jėga Λιθουανίας"
     },
     "source": "LE",
     "ordinal": 29
@@ -762,7 +762,7 @@
     "costPerCombination": 1.5,
     "drawDays": ["TUESDAY"],
     "localizedNames": {
-      "en": "Oz Lotto Australia", "hr": "Oz Loto Australija", "de": "Oz Lotto Australia", "sl": "Oz Lotto Australia", "cs": "Oz Loto AustrÃ¡lie", "da": "Oz Lotto Australia", "es": "Oz Lotto Australia", "et": "Oz Lotto Australia", "fi": "Oz Lotto Australia", "fr": "Oz Lotto Australia", "hu": "Oz Lotto Australia", "is": "Oz Lotto Australia", "it": "Oz Lotto Australia", "lt": "Oz Lotto Australia", "lv": "Oz Lotto Australia", "nb": "Oz Lotto Australia", "nl": "Oz Lotto Australia", "pl": "Oz Lotto Australia", "pt": "Oz Lotto Australia", "sk": "Oz Lotto Australia", "sv": "Oz Lotto Australia", "el": "Oz Lotto Australia"
+      "en": "Oz Lotto Australia", "hr": "Oz Loto Australija", "de": "Oz Lotto Australia", "sl": "Oz Lotto Australia", "cs": "Oz Loto Austrálie", "da": "Oz Lotto Australia", "es": "Oz Lotto Australia", "et": "Oz Lotto Australia", "fi": "Oz Lotto Australia", "fr": "Oz Lotto Australia", "hu": "Oz Lotto Australia", "is": "Oz Lotto Australia", "it": "Oz Lotto Australia", "lt": "Oz Lotto Australia", "lv": "Oz Lotto Australia", "nb": "Oz Lotto Australia", "nl": "Oz Lotto Australia", "pl": "Oz Lotto Australia", "pt": "Oz Lotto Australia", "sk": "Oz Lotto Australia", "sv": "Oz Lotto Australia", "el": "Oz Lotto Australia"
     },
     "source": "LE",
     "ordinal": 31
@@ -786,7 +786,7 @@
     "costPerCombination": 1.5,
     "drawDays": ["THURSDAY"],
     "localizedNames": {
-      "en": "Powerball Australia", "hr": "Powerball Australija", "de": "Powerball Australia", "sl": "Powerball Australia", "cs": "Powerball AustrÃ¡lie", "da": "Powerball Australia", "es": "Powerball Australia", "et": "Powerball Australia", "fi": "Powerball Australia", "fr": "Powerball Australia", "hu": "Powerball Australia", "is": "Powerball Australia", "it": "Powerball Australia", "lt": "Powerball Australia", "lv": "Powerball Australia", "nb": "Powerball Australia", "nl": "Powerball Australia", "pl": "Powerball Australia", "pt": "Powerball Australia", "sk": "Powerball Australia", "sv": "Powerball Australia", "el": "Powerball Australia"
+      "en": "Powerball Australia", "hr": "Powerball Australija", "de": "Powerball Australia", "sl": "Powerball Australia", "cs": "Powerball Austrálie", "da": "Powerball Australia", "es": "Powerball Australia", "et": "Powerball Australia", "fi": "Powerball Australia", "fr": "Powerball Australia", "hu": "Powerball Australia", "is": "Powerball Australia", "it": "Powerball Australia", "lt": "Powerball Australia", "lv": "Powerball Australia", "nb": "Powerball Australia", "nl": "Powerball Australia", "pl": "Powerball Australia", "pt": "Powerball Australia", "sk": "Powerball Australia", "sv": "Powerball Australia", "el": "Powerball Australia"
     },
     "source": "LE",
     "ordinal": 32
@@ -810,7 +810,7 @@
     "costPerCombination": 1.0,
     "drawDays": ["TUESDAY", "THURSDAY", "SATURDAY"],
     "localizedNames": {
-      "en": "Mega-Sena (Brazil)", "hr": "Mega-Sena (Brazil)", "de": "Mega-Sena (Brazil)", "sl": "Mega-Sena (Brazil)", "cs": "Mega-Sena (BrazÃ­lie)", "da": "Mega-Sena (Brazil)", "es": "Mega-Sena (Brazil)", "et": "Mega-Sena (Brazil)", "fi": "Mega-Sena (Brazil)", "fr": "Mega-Sena (Brazil)", "hu": "Mega-Sena (Brazil)", "is": "Mega-Sena (Brazil)", "it": "Mega-Sena (Brazil)", "lt": "Mega-Sena (Brazil)", "lv": "Mega-Sena (Brazil)", "nb": "Mega-Sena (Brazil)", "nl": "Mega-Sena (Brazil)", "pl": "Mega-Sena (Brazil)", "pt": "Mega-Sena (Brazil)", "sk": "Mega-Sena (Brazil)", "sv": "Mega-Sena (Brazil)", "el": "Mega-Sena (Brazil)"
+      "en": "Mega-Sena (Brazil)", "hr": "Mega-Sena (Brazil)", "de": "Mega-Sena (Brasilien)", "sl": "Mega-Sena (Brazilija)", "cs": "Mega-Sena (Brazílie)", "da": "Mega-Sena (Brazil)", "es": "Mega-Sena (Brazil)", "et": "Mega-Sena (Brazil)", "fi": "Mega-Sena (Brazil)", "fr": "Mega-Sena (Brazil)", "hu": "Mega-Sena (Brazil)", "is": "Mega-Sena (Brazil)", "it": "Mega-Sena (Brasile)", "lt": "Mega-Sena (Brazilija)", "lv": "Mega-Sena (Brazīlija)", "nb": "Mega-Sena (Brazil)", "nl": "Mega-Sena (Brazil)", "pl": "Mega-Sena (Brazylia)", "pt": "Mega-Sena (Brazil)", "sk": "Mega-Sena (Brazilija)", "sv": "Mega-Sena (Brazil)", "el": "Mega-Sena (Brazil)"
     },
     "source": "LE",
     "ordinal": 33
@@ -882,7 +882,7 @@
     "costPerCombination": 1.0,
     "drawDays": ["MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY", "SUNDAY"],
     "localizedNames": {
-      "en": "Gosloto 5/50 (Russia)", "hr": "Gosloto 5/50 (Rusija)"
+      "en": "Gosloto 5/50 (Russia)", "hr": "Gosloto 5/50 (Rusija)", "de": "Gosloto 5/50 (Russland)", "sl": "Gosloto 5/50 (Rusija)", "cs": "Gosloto 5/50 (Rusko)", "da": "Gosloto 5/50 (Rusland)", "es": "Gosloto 5/50 (Rusia)", "et": "Gosloto 5/50 (Venemaa)", "fi": "Gosloto 5/50 (Venäjä)", "fr": "Gosloto 5/50 (Russie)", "hu": "Gosloto 5/50 (Oroszország)", "is": "Gosloto 5/50 (Rússland)", "it": "Gosloto 5/50 (Russia)", "lt": "Gosloto 5/50 (Rusija)", "lv": "Gosloto 5/50 (Krievija)", "nb": "Gosloto 5/50 (Russland)", "nl": "Gosloto 5/50 (Russland)", "pl": "Gosloto 5/50 (Rosja)", "pt": "Gosloto 5/50 (Rússia)", "sk": "Gosloto 5/50 (Rusko)", "sv": "Gosloto 5/50 (Ryssland)", "el": "Gosloto 5/50 (Ρωσία)"
     },
     "source": "LE",
     "ordinal": 36
@@ -1050,7 +1050,7 @@
     "costPerCombination": 1.0,
     "drawDays": ["MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY", "SUNDAY"],
     "localizedNames": {
-      "en": "Atlantic Bucko (Canada)", "hr": "Atlantic Bucko (Kanada)", "de": "Atlantic Bucko (Kanada)", "sl": "Atlantic Bucko (Kanada)", "cs": "Atlantic Bucko (Kanada)", "da": "Atlantic Bucko (Canada)", "es": "Atlantic Bucko (Canadá)", "et": "Atlantic Bucko (Kanada)", "fi": "Atlantic Bucko (Kanada)", "fr": "Atlantic Bucko (Canada)", "hu": "Atlantic Bucko (Kanada)", "is": "Atlantic Bucko (Kanada)", "it": "Atlantic Bucko (Canada)", "lt": "Atlantic Bucko (Kanada)", "lv": "Atlantic Bucko (Kanāda)", "nb": "Atlantic Bucko (Canada)", "nl": "Atlantic Bucko (Canada)", "pl": "Atlantic Bucko (Kanada)", "pt": "Atlantic Bucko (Canadá)", "sk": "Atlantic Bucko (Kanada)", "sv": "Atlantic Bucko (Kanada)", "el": "Atlantic Bucko (Καναδάς)"
+      "en": "Atlantic Bucko (Canada)", "hr": "Atlantic Bucko (Kanada)", "de": "Atlantic Bucko (Canada)", "sl": "Atlantic Bucko (Kanada)", "cs": "Atlantic Bucko (Kanada)", "da": "Atlantic Bucko (Canada)", "es": "Atlantic Bucko (Canadá)", "et": "Atlantic Bucko (Kanada)", "fi": "Atlantic Bucko (Kanada)", "fr": "Atlantic Bucko (Canada)", "hu": "Atlantic Bucko (Kanada)", "is": "Atlantic Bucko (Kanada)", "it": "Atlantic Bucko (Canada)", "lt": "Atlantic Bucko (Kanada)", "lv": "Atlantic Bucko (Kanāda)", "nb": "Atlantic Bucko (Canada)", "nl": "Atlantic Bucko (Canada)", "pl": "Atlantic Bucko (Canada)", "pt": "Atlantic Bucko (Canadá)", "sk": "Atlantic Bucko (Kanada)", "sv": "Atlantic Bucko (Kanada)", "el": "Atlantic Bucko (Καναδάς)"
     },
     "source": "LE",
     "ordinal": 43
@@ -1074,7 +1074,7 @@
     "costPerCombination": 5.0,
     "drawDays": ["WEDNESDAY", "SATURDAY"],
     "localizedNames": {
-      "en": "Lotto (South Africa)", "hr": "Lotto (Južna Afrika)", "de": "Lotto (Südafrika)", "sl": "Lotto (Južna Afrika)", "cs": "Lotto (Jižní Afrika)", "da": "Lotto (Sydafrika)", "es": "Lotto (Sudáfrica)", "et": "Lotto (Lõuna-Aafrika)", "fi": "Lotto (Etelä-Afrikka)", "fr": "Lotto (Afrique du Sud)", "hu": "Lotto (Dél-afrikai Köztársaság)", "is": "Lotto (Suður-Afríka)", "it": "Lotto (Sudafrica)", "lt": "Lotto (Pietų Afrika)", "lv": "Lotto (Dienvidāfrika)", "nb": "Lotto (Sør-Afrika)", "nl": "Lotto (Zuid-Afrika)", "pl": "Lotto (RPA)", "pt": "Lotto (África do Sul)", "sk": "Lotto (Južná Afrika)", "sv": "Lotto (Sydafrika)", "el": "Lotto (Νότια Αφρική)"
+      "en": "Lotto (South Africa)", "hr": "Lotto (Južna Afrika)", "de": "Lotto (Südafrika)", "sl": "Lotto (Južna Afrika)", "cs": "Lotto (Jižní Afrika)", "da": "Lotto (Sydafrika)", "es": "Lotto (Sudáfrica)", "et": "Lotto (Lõuna-Aafrika)", "fi": "Lotto (Etelä-Afrikka)", "fr": "Lotto (Afrique du Sud)", "hu": "Lotto (Dél-afrikai Köztάρτης)", "is": "Lotto (Suður-Afríka)", "it": "Lotto (Sudafrica)", "lt": "Lotto (Pietų Afrika)", "lv": "Lotto (Dienvidāfrika)", "nb": "Lotto (Sør-Afrika)", "nl": "Lotto (Zuid-Afrika)", "pl": "Lotto (RPA)", "pt": "Lotto (África do Sul)", "sk": "Lotto (Južná Afrika)", "sv": "Lotto (Sydafrika)", "el": "Lotto (Νότια Αφρική)"
     },
     "source": "LE",
     "ordinal": 44
@@ -1098,7 +1098,7 @@
     "costPerCombination": 5.0,
     "drawDays": ["TUESDAY", "FRIDAY"],
     "localizedNames": {
-      "en": "Powerball (South Africa)", "hr": "Powerball (Južna Afrika)", "de": "Powerball (Südafrika)", "sl": "Powerball (Južna Afrika)", "cs": "Powerball (Jižní Afrika)", "da": "Powerball (Sydafrika)", "es": "Powerball (Sudáfrica)", "et": "Powerball (Lõuna-Aafrika)", "fi": "Powerball (Etelä-Afrikka)", "fr": "Powerball (Afrique du Sud)", "hu": "Powerball (Dél-afrikai Köztársaság)", "is": "Powerball (Suður-Afríka)", "it": "Powerball (Sudafrica)", "lt": "Powerball (Pietų Afrika)", "lv": "Powerball (Dienvidāfrika)", "nb": "Powerball (Sør-Afrika)", "nl": "Powerball (Zuid-Afrika)", "pl": "Powerball (RPA)", "pt": "Powerball (África do Sul)", "sk": "Powerball (Južná Afrika)", "sv": "Powerball (Sydafrika)", "el": "Powerball (Νότια Αφρική)"
+      "en": "Powerball (South Africa)", "hr": "Powerball (Južna Afrika)", "de": "Powerball (Südafrika)", "sl": "Powerball (Južna Afrika)", "cs": "Powerball (Jižní Afrika)", "da": "Powerball (Sydafrika)", "es": "Powerball (Sudáfrica)", "et": "Powerball (Lõuna-Aafrika)", "fi": "Powerball (Etelä-Afrikka)", "fr": "Powerball (Afrique du Sud)", "hu": "Powerball (Dél-afrikai Köztάρτης)", "is": "Powerball (Suður-Afríka)", "it": "Powerball (Sudafrica)", "lt": "Powerball (Pietų Afrika)", "lv": "Powerball (Dienvidāfrika)", "nb": "Powerball (Sør-Afrika)", "nl": "Powerball (Zuid-Afrika)", "pl": "Powerball (RPA)", "pt": "Powerball (África do Sul)", "sk": "Powerball (Južná Afrika)", "sv": "Powerball (Sydafrika)", "el": "Powerball (Νότια Αφρική)"
     },
     "source": "LE",
     "ordinal": 45
@@ -1122,7 +1122,7 @@
     "costPerCombination": 5.0,
     "drawDays": ["TUESDAY", "FRIDAY"],
     "localizedNames": {
-      "en": "Lotto Max (Canada)", "hr": "Lotto Max (Kanada)"
+      "en": "Lotto Max (Canada)", "hr": "Lotto Max (Kanada)", "de": "Lotto Max (Kanada)", "sl": "Lotto Max (Kanada)", "cs": "Lotto Max (Kanada)", "da": "Lotto Max (Canada)", "es": "Lotto Max (Canadá)", "et": "Lotto Max (Kanada)", "fi": "Lotto Max (Kanada)", "fr": "Lotto Max (Canada)", "hu": "Lotto Max (Kanada)", "is": "Lotto Max (Kanada)", "it": "Lotto Max (Canada)", "lt": "Lotto Max (Kanada)", "lv": "Lotto Max (Kanāda)", "nb": "Lotto Max (Canada)", "nl": "Lotto Max (Canada)", "pl": "Lotto Max (Kanada)", "pt": "Lotto Max (Canadá)", "sk": "Lotto Max (Kanada)", "sv": "Lotto Max (Kanada)", "el": "Lotto Max (Καναδάς)"
     },
     "source": "LE",
     "ordinal": 46
@@ -1146,7 +1146,7 @@
     "costPerCombination": 0.5,
     "drawDays": ["MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY"],
     "localizedNames": {
-      "en": "Loto Fácil (Brazil)", "hr": "Loto Fácil (Brazil)"
+      "en": "Loto Fácil (Brazil)", "hr": "Loto Fácil (Brazil)", "de": "Loto Fácil (Brasilien)", "sl": "Loto Fácil (Brazilija)", "cs": "Loto Fácil (Brazílie)", "da": "Loto Fácil (Brasilien)", "es": "Loto Fácil (Brasil)", "et": "Loto Fácil (Brasiilia)", "fi": "Loto Fácil (Brasilia)", "fr": "Loto Fácil (Brésil)", "hu": "Loto Fácil (Brazília)", "is": "Loto Fácil (Brasilía)", "it": "Loto Fácil (Brasile)", "lt": "Loto Fácil (Brazilija)", "lv": "Loto Fácil (Brazīlija)", "nb": "Loto Fácil (Brasil)", "nl": "Loto Fácil (Brazilië)", "pl": "Loto Fácil (Brazylia)", "pt": "Loto Fácil (Brasil)", "sk": "Loto Fácil (Brazília)", "sv": "Loto Fácil (Brasilien)", "el": "Loto Fácil (Βραζιλία)"
     },
     "source": "LE",
     "ordinal": 47
@@ -1170,7 +1170,7 @@
     "costPerCombination": 1.3,
     "drawDays": ["TUESDAY", "THURSDAY", "SUNDAY"],
     "localizedNames": {
-      "en": "Mark Six (Hong Kong)", "hr": "Mark Six (Hong Kong)"
+      "en": "Mark Six (Hong Kong)", "hr": "Mark Six (Hong Kong)", "de": "Mark Six (Hongkong)", "sl": "Mark Six (Hongkong)", "cs": "Mark Six (Hongkong)", "da": "Mark Six (Hongkong)", "es": "Mark Six (Hong Kong)", "et": "Mark Six (Hongkong)", "fi": "Mark Six (Hongkong)", "fr": "Mark Six (Hong Kong)", "hu": "Mark Six (Hongkong)", "is": "Mark Six (Hong Kong)", "it": "Mark Six (Hong Kong)", "lt": "Mark Six (Honkongas)", "lv": "Mark Six (Honkonga)", "nb": "Mark Six (Hongkong)", "nl": "Mark Six (Hongkong)", "pl": "Mark Six (Hongkong)", "pt": "Mark Six (Hong Kong)", "sk": "Mark Six (Hongkong)", "sv": "Mark Six (Hongkong)", "el": "Mark Six (Χονγκ Κονγκ)"
     },
     "source": "LE",
     "ordinal": 48
@@ -1194,7 +1194,7 @@
     "costPerCombination": 0.3,
     "drawDays": ["TUESDAY", "THURSDAY", "SUNDAY"],
     "localizedNames": {
-      "en": "China Union Lotto", "hr": "Kineski Union Lotto"
+      "en": "China Union Lotto", "hr": "Kineski Union Lotto", "de": "China Union Lotto", "sl": "Kitajski Union Lotto", "cs": "Čínské Union Lotto", "da": "Kinesisk Union Lotto", "es": "Lotto Unión China", "et": "Hiina Union Lotto", "fi": "Kiinan Union Lotto", "fr": "China Union Lotto", "hu": "Kínai Union Lotto", "is": "Kínverskt Union Lotto", "it": "China Union Lotto", "lt": "Kinijos Union Lotto", "lv": "Ķīnas Union Lotto", "nb": "Kinesisk Union Lotto", "nl": "China Union Lotto", "pl": "China Union Lotto", "pt": "Lotto União Chinesa", "sk": "Čínské Union Lotto", "sv": "Kinesiskt Union Lotto", "el": "Lotto Ένωση Κίνας"
     },
     "ordinal": 49,
     "source": "CUL"
