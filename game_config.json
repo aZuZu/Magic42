@@ -146,7 +146,7 @@
   {
     "id": "SUPERENALOTTO",
     "countries": ["ITALY"],
-    "canBetOnIt": false,
+    "canBetOnIt": true,
     "mainNumberRangeStart": 1,
     "mainNumberRangeEnd": 90,
     "mainNumberCount": 6,
