@@ -1154,7 +1154,7 @@
   {
     "id": "MARK_SIX_HK",
     "countries": ["HONG_KONG"],
-    "canBetOnIt": true,
+    "canBetOnIt": false,
     "mainNumberRangeStart": 1,
     "mainNumberRangeEnd": 49,
     "mainNumberCount": 6,
@@ -1178,7 +1178,7 @@
   {
     "id": "CHINA_UNION_LOTTO",
     "countries": ["CHINA"],
-    "canBetOnIt": true,
+    "canBetOnIt": false,
     "mainNumberRangeStart": 1,
     "mainNumberRangeEnd": 33,
     "mainNumberCount": 6,
