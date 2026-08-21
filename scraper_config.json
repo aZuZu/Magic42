@@ -1,8 +1,8 @@
 {
   "configs": {
     "DEFAULT": {
-      "table": "table.results3 tr",
-      "numbers": "ul.displayball > li:not(.dbx)",
+      "table": "table.results3 tr, table.results tr, .okno tr, tr:has(.xgame), tr:has(.res)",
+      "numbers": "ul.displayball > li:not(.dbx), .ball",
       "method": "POST",
       "params": {
         "mode": "month",
@@ -18,7 +18,7 @@
       }
     },
     "PRIMITIVA_SPAIN": {
-      "table": "table.results, tr[bgcolor=#FFFADD]",
+      "table": "table.results3 tr, table.results, tr[bgcolor=#FFFADD]",
       "numbers": "ul.displayball:first-child > li:not(.dbx), ul.displayball:last-child > li:not(.dbx)",
       "params": {
         "tryb": "rokmsc",
@@ -27,13 +27,22 @@
       }
     },
     "LOTTO_FINLAND": {
-      "table": "tr:has(.xgame)",
+      "table": "table.results3 tr, tr:has(.xgame)",
       "numbers": "ul.displayball:first-child > li:not(.dbx)",
       "params": {
         "tryb": "rokmsc",
         "_month": "{M}",
         "_year": "{yyyy}"
       }
+    },
+    "EL_GORDO": {
+       "table": "table.results3 tr, table.results, tr[bgcolor=#FFFADD]",
+       "numbers": "ul.displayball > li:not(.dbx), .ball",
+       "method": "POST",
+       "params": {
+         "mode": "month",
+         "year_month": "{yyyy-MM}"
+       }
     },
     "SUPER_LOTO_UKRAINE": {
       "table": "tr:has(.xgame)",
@@ -44,7 +53,7 @@
       }
     },
     "LOTTO_SWEDEN": {
-      "table": "tr:has(.xgame), tr:has(.res)",
+      "table": "table.results3 tr, table.results tr, tr:has(.xgame), tr:has(.res), tr[bgcolor=#FFFADD]",
       "numbers": "ul.displayball:first-child > li:not(.dbx)",
       "params": {
         "tryb": "rokmsc",
@@ -53,7 +62,7 @@
       }
     },
     "MEGA_SENA_BRAZIL": {
-      "table": "tr:has(.xgame)",
+      "table": "tr:has(.xgame), tr:has(.res), table.results3 tr",
       "params": {
         "tryb": "xmiesiac",
         "data_m": "{M}",
@@ -61,7 +70,7 @@
       }
     },
     "LOTO_FACIL_BRAZIL": {
-      "table": "tr:has(.xgame)",
+      "table": "tr:has(.xgame), tr:has(.res), table.results3 tr",
       "params": {
         "tryb": "xmiesiac",
         "data_m": "{M}",
@@ -69,7 +78,7 @@
       }
     },
     "LOTO_SLOVENIA": {
-      "table": ".xgame, tr[bgcolor=#F4E591]",
+      "table": "table.results3 tr, tr:has(.xgame), tr[bgcolor=#F4E591], tr[bgcolor=#FFFADD]",
       "params": {
         "tryb": "xmiesiac",
         "data_m": "{M}",
@@ -93,13 +102,12 @@
       }
     },
     "EUROMILLIONS": {
-      "table": "div.xgm2 > div",
+      "table": "div.xgm2",
       "numbers": "ul.displayball > li:not(.dbx)",
       "method": "POST",
       "params": {
-        "d2": "{M}",
-        "d3": "{yyyy}",
-        "zak": "50"
+        "mode": "month",
+        "year_month": "{yyyy-MM}"
       }
     },
     "SUPERENALOTTO": {
@@ -137,21 +145,24 @@
       "params": {
         "mode": "month",
         "year_month": "{yyyy-MM}"
-      }
+      },
+      "dateFormat": "MM/dd/yyyy"
     },
     "BC_49_CANADA": {
       "method": "POST",
       "params": {
         "mode": "month",
         "year_month": "{yyyy-MM}"
-      }
+      },
+      "dateFormat": "MM/dd/yyyy"
     },
     "QUEBEC_49_CANADA": {
       "method": "POST",
       "params": {
         "mode": "month",
         "year_month": "{yyyy-MM}"
-      }
+      },
+      "dateFormat": "MM/dd/yyyy"
     },
     "LOTTO_MAX_CANADA": {
       "method": "POST",
@@ -196,6 +207,23 @@
       "method": "GET",
       "urlSuffix": "{yyyy}",
       "params": null
+    },
+    "SAYISAL_LOTO_TURKEY": {
+      "table": "table.results tr, table.results3 tr",
+      "numbers": "ul.displayball > li:not(.dbx), td.c1 p",
+      "method": "POST",
+      "params": {
+        "mode": "month",
+        "year_month": "{yyyy-MM}"
+      }
+    },
+    "SVE_ILI_NISTA": {
+      "table": "table.results tr, table.results3 tr",
+      "method": "POST",
+      "params": {
+        "mode": "month",
+        "year_month": "{yyyy-MM}"
+      }
     }
   }
 }
