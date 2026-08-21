@@ -1,5 +1,5 @@
 {
-  "configz": {
+  "configs": {
     "DEFAULT": {
       "table": "table.results3 tr, table.results tr, .okno tr, tr:has(.xgame), tr:has(.res)",
       "numbers": "ul.displayball > li:not(.dbx), .ball",
