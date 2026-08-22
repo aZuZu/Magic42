@@ -498,7 +498,7 @@
     "costPerCombination": 2.0,
     "drawDays": ["SATURDAY"],
     "localizedNames": {
-      "en": "Netherlands Lotto", "hr": "Nizozemski Loto", "de": "Niederländisches Lotto", "sl": "Nizozemski Loto", "cs": "Nizozemské Lotto", "da": "Hollandsk Lotto", "es": "Lotto Países Bajos", "et": "Hollandi Loto", "fi": "Alankomaiden Lotto", "fr": "Lotto Pays-Bas", "hu": "Holland Lottó", "is": "Hollenskt Lottó", "it": "Lotto Paesi Bassi", "lt": "Nyderlandų Lotto", "lv": "Nīderlandes Lotto", "nb": "Nederlandsk Lotto", "nl": "Lotto Nederland", "pl": "Lotto Holandia", "pt": "Lotto Países Baixos", "sk": "Holandské Lotto", "sv": "Nederländsk Lotto", "el": "Lotto Ολλανδίας"
+      "en": "Netherlands Lotto", "hr": "Nizozemski Lotto", "de": "Niederlande Lotto", "sl": "Nizozemski Lotto", "cs": "Nizozemské Lotto", "da": "Hollandsk Lotto", "es": "Lotería de los Países Bajos", "et": "Hollandi Lotto", "fi": "Alankomaiden Lotto", "fr": "Loto des Pays-Bas", "hu": "Holland Lotto", "is": "Holland lottó", "it": "Lotto dei Paesi Bassi", "lt": "Nyderlandų Lotto", "lv": "Nīderlandes Lotto", "nb": "Nederlandsk Lotto", "nl": "Nederlandse Lotto", "pl": "Holenderskie Lotto", "pt": "Totoloto dos Países Baixos", "sk": "Holandské Lotto", "sv": "Nederländsk Lotto", "el": "Λόττο Ολλανδίας"
     },
     "source": "LE",
     "ordinal": 20
@@ -594,7 +594,7 @@
     "costPerCombination": 2.5,
     "drawDays": ["WEDNESDAY", "SATURDAY"],
     "localizedNames": {
-      "en": "Swiss Lotto", "hr": "Švicarski Loto", "de": "Schweizer Lotto", "sl": "Švicarski Loto", "cs": "Švýcarské Lotto", "da": "Schweizisk Lotto", "es": "Lotto Suiza", "et": "Šveitsi Loto", "fi": "Sveitsin Lotto", "fr": "Lotto Suisse", "hu": "Svájci Lottó", "is": "Svissneskt Lottó", "it": "Lotto Svizzera", "lt": "Šveicarijos Lotto", "lv": "Šveices Lotto", "nb": "Sveitsisk Lotto", "nl": "Lotto Zwitserland", "pl": "Lotto Szwajcaria", "pt": "Lotto Suíça", "sk": "Švajčiarske Lotto", "sv": "Schweizisk Lotto", "el": "Lotto Ελβετίας"
+      "en": "Swiss Lotto", "hr": "Švicarski Lotto", "de": "Schweizer Lotto", "sl": "Švicarski Lotto", "cs": "Švýcarské Lotto", "da": "Schweizisk Lotto", "es": "Lotería Suiza", "et": "Šveitsi Lotto", "fi": "Sveitsin Lotto", "fr": "Loto Suisse", "hu": "Svájci Lotto", "is": "Svissneskt lottó", "it": "Lotto Svizzero", "lt": "Šveicarijos Lotto", "lv": "Šveices Lotto", "nb": "Sveitsisk Lotto", "nl": "Zwitserse Lotto", "pl": "Szwajcarskie Lotto", "pt": "Lotto da Suíça", "sk": "Švajčiarske Lotto", "sv": "Schweizisk Lotto", "el": "Ελβετικό Λόττο"
     },
     "source": "LE",
     "ordinal": 24
@@ -618,7 +618,7 @@
     "costPerCombination": 1.2,
     "drawDays": ["WEDNESDAY", "SUNDAY"],
     "localizedNames": {
-      "en": "Austria Lotto", "hr": "Austrijski Loto", "de": "Österreichisches Lotto", "sl": "Avstrijski Loto", "cs": "Rakouské Lotto", "da": "Østrigsk Lotto", "es": "Lotto Austria", "et": "Austria Loto", "fi": "Itävallan Lotto", "fr": "Lotto Autriche", "hu": "Osztrák Lottó", "is": "Austurrískt Lottó", "it": "Lotto Austria", "lt": "Austrijos Lotto", "lv": "Austrijas Lotto", "nb": "Østerriksk Lotto", "nl": "Lotto Oostenrijk", "pl": "Lotto Austria", "pt": "Lotto Áustria", "sk": "Rakúske Lotto", "sv": "Österrikisk Lotto", "el": "Lotto Αυστρίας"
+      "en": "Austria Lotto", "hr": "Austrijski Lotto", "de": "Österreich Lotto", "sl": "Avstrijski Lotto", "cs": "Rakouské Lotto", "da": "Østrigsk Lotto", "es": "Lotería de Austria", "et": "Austria Lotto", "fi": "Itävallan Lotto", "fr": "Loto d'Autriche", "hu": "Osztrák Lotto", "is": "Austurískt lottó", "it": "Lotto dell'Austria", "lt": "Austrijos Lotto", "lv": "Austrijas Lotto", "nb": "Østerriksk Lotto", "nl": "Oostenrijkse Lotto", "pl": "Austriackie Lotto", "pt": "Lotto da Áustria", "sk": "Rakúske Lotto", "sv": "Österrikisk Lotto", "el": "Λόττο Αυστρίας"
     },
     "source": "LE",
     "ordinal": 25
@@ -642,7 +642,7 @@
     "costPerCombination": 1.0,
     "drawDays": ["SATURDAY"],
     "localizedNames": {
-      "en": "Denmark Lotto", "hr": "Danski Loto", "de": "Dänisches Lotto", "sl": "Danski Loto", "cs": "Dánske Lotto", "da": "Dansk Lotto", "es": "Lotto Dinamarca", "et": "Taani Loto", "fi": "Tanskan Lotto", "fr": "Lotto Danemark", "hu": "Dán Lottó", "is": "Danskt Lottó", "it": "Lotto Danimarca", "lt": "Danijos Lotto", "lv": "Dānijas Lotto", "nb": "Dansk Lotto", "nl": "Lotto Denemarken", "pl": "Lotto Dania", "pt": "Lotto Dinamarca", "sk": "Dánske Lotto", "sv": "Dansk Lotto", "el": "Lotto Δανίας"
+      "en": "Denmark Lotto", "hr": "Danski Lotto", "de": "Dänemark Lotto", "sl": "Danski Lotto", "cs": "Dánské Lotto", "da": "Dansk Lotto", "es": "Lotería de Dinamarca", "et": "Taani Lotto", "fi": "Tanskan Lotto", "fr": "Loto du Danemark", "hu": "Dán Lotto", "is": "Danskt lottó", "it": "Lotto della Danimarca", "lt": "Danijos Lotto", "lv": "Dānijas Lotto", "nb": "Dansk Lotto", "nl": "Deense Lotto", "pl": "Duńskie Lotto", "pt": "Lotto da Dinamarca", "sk": "Dánske Lotto", "sv": "Dansk Lotto", "el": "Λόττο Δανίας"
     },
     "source": "LE",
     "ordinal": 26
@@ -666,7 +666,7 @@
     "costPerCombination": 1.0,
     "drawDays": ["SATURDAY"],
     "localizedNames": {
-      "en": "Finland Lotto", "hr": "Finski Loto", "de": "Finnisches Lotto", "sl": "Finski Loto", "cs": "Finské Lotto", "da": "Finsk Lotto", "es": "Lotto Finlandia", "et": "Soome Loto", "fi": "Soome Loto", "fr": "Lotto Finlande", "hu": "Finn Lottó", "is": "Finnskt Lottó", "it": "Lotto Finlandia", "lt": "Suomijos Lotto", "lv": "Somijas Lotto", "nb": "Finsk Lotto", "nl": "Lotto Finland", "pl": "Lotto Finlandia", "pt": "Lotto Finlândia", "sk": "Fínske Lotto", "sv": "Finsk Lotto", "el": "Lotto Φινλανδίας"
+      "en": "Finland Lotto", "hr": "Finski Lotto", "de": "Finnland Lotto", "sl": "Finski Lotto", "cs": "Finské Lotto", "da": "Finsk Lotto", "es": "Lotería de Finlandia", "et": "Soome Lotto", "fi": "Suomen Lotto", "fr": "Loto de Finlande", "hu": "Finn Lotto", "is": "Finnskt lottó", "it": "Lotto della Finlandia", "lt": "Suomijos Lotto", "lv": "Somijas Lotto", "nb": "Finsk Lotto", "nl": "Finse Lotto", "pl": "Fińskie Lotto", "pt": "Lotto da Finlândia", "sk": "Fínske Lotto", "sv": "Finsk Lotto", "el": "Λόττο Φινλανδίας"
     },
     "source": "LE",
     "ordinal": 27
@@ -690,7 +690,7 @@
     "costPerCombination": 2.0,
     "drawDays": ["WEDNESDAY", "SATURDAY"],
     "localizedNames": {
-      "en": "Ireland Lotto", "hr": "Irski Loto", "de": "Irisches Lotto", "sl": "Irski Loto", "cs": "Irské Lotto", "da": "Irsk Lotto", "es": "Lotto Irlanda", "et": "Iiri Loto", "fi": "Irlannin Lotto", "fr": "Lotto Irlande", "hu": "Ír Lottó", "is": "Írskt Lottó", "it": "Lotto Irlanda", "lt": "Airijos Lotto", "lv": "Īrijas Lotto", "nb": "Irsk Lotto", "nl": "Lotto Ierland", "pl": "Lotto Irlandia", "pt": "Lotto Irlanda", "sk": "Írske Lotto", "sv": "Irländsk Lotto", "el": "Lotto Ιρλανδίας"
+      "en": "Ireland Lotto", "hr": "Irski Lotto", "de": "Irland Lotto", "sl": "Irski Lotto", "cs": "Irské Lotto", "da": "Irsk Lotto", "es": "Lotería de Irlanda", "et": "Iirimaa Lotto", "fi": "Irlannin Lotto", "fr": "Loto d'Irlande", "hu": "Ír Lotto", "is": "Írskt lottó", "it": "Lotto dell'Irlanda", "lt": "Airijos Lotto", "lv": "Īrijas Lotto", "nb": "Irsk Lotto", "nl": "Ierse Lotto", "pl": "Irlandzkie Lotto", "pt": "Lotto da Irlanda", "sk": "Írske Lotto", "sv": "Irländsk Lotto", "el": "Λόττο Ιρλανδίας"
     },
     "source": "LE",
     "ordinal": 28
@@ -1074,7 +1074,7 @@
     "costPerCombination": 5.0,
     "drawDays": ["WEDNESDAY", "SATURDAY"],
     "localizedNames": {
-      "en": "Lotto (South Africa)", "hr": "Lotto (Južna Afrika)", "de": "Lotto (Südafrika)", "sl": "Lotto (Južna Afrika)", "cs": "Lotto (Jižní Afrika)", "da": "Lotto (Sydafrika)", "es": "Lotto (Sudáfrica)", "et": "Lotto (Lõuna-Aafrika)", "fi": "Lotto (Etelä-Afrikka)", "fr": "Lotto (Afrique du Sud)", "hu": "Lotto (Dél-afrikai Köztάρτης)", "is": "Lotto (Suður-Afríka)", "it": "Lotto (Sudafrica)", "lt": "Lotto (Pietų Afrika)", "lv": "Lotto (Dienvidāfrika)", "nb": "Lotto (Sør-Afrika)", "nl": "Lotto (Zuid-Afrika)", "pl": "Lotto (RPA)", "pt": "Lotto (África do Sul)", "sk": "Lotto (Južná Afrika)", "sv": "Lotto (Sydafrika)", "el": "Lotto (Νότια Αφρική)"
+      "en": "Lotto (South Africa)", "hr": "Lotto (Južna Afrika)", "de": "Lotto (Südafrika)", "sl": "Lotto (Južna Afrika)", "cs": "Lotto (Jižní Afrika)", "da": "Lotto (Sydafrika)", "es": "Lotto (Sudáfrica)", "et": "Lotto (Lõuna-Aafrika)", "fi": "Lotto (Etelä-Afrikka)", "fr": "Lotto (Afrique du Sud)", "hu": "Lotto (Dél-afrikai Köztársaság)", "is": "Lotto (Suður-Afríka)", "it": "Lotto (Sudafrica)", "lt": "Lotto (Pietų Afrika)", "lv": "Lotto (Dienvidāfrika)", "nb": "Lotto (Sør-Afrika)", "nl": "Lotto (Zuid-Afrika)", "pl": "Lotto (RPA)", "pt": "Lotto (África do Sul)", "sk": "Lotto (Južná Afrika)", "sv": "Lotto (Sydafrika)", "el": "Lotto (Νότια Αφρική)"
     },
     "source": "LE",
     "ordinal": 44
@@ -1098,7 +1098,7 @@
     "costPerCombination": 5.0,
     "drawDays": ["TUESDAY", "FRIDAY"],
     "localizedNames": {
-      "en": "Powerball (South Africa)", "hr": "Powerball (Južna Afrika)", "de": "Powerball (Südafrika)", "sl": "Powerball (Južna Afrika)", "cs": "Powerball (Jižní Afrika)", "da": "Powerball (Sydafrika)", "es": "Powerball (Sudáfrica)", "et": "Powerball (Lõuna-Aafrika)", "fi": "Powerball (Etelä-Afrikka)", "fr": "Powerball (Afrique du Sud)", "hu": "Powerball (Dél-afrikai Köztάρτης)", "is": "Powerball (Suður-Afríka)", "it": "Powerball (Sudafrica)", "lt": "Powerball (Pietų Afrika)", "lv": "Powerball (Dienvidāfrika)", "nb": "Powerball (Sør-Afrika)", "nl": "Powerball (Zuid-Afrika)", "pl": "Powerball (RPA)", "pt": "Powerball (África do Sul)", "sk": "Powerball (Južná Afrika)", "sv": "Powerball (Sydafrika)", "el": "Powerball (Νότια Αφρική)"
+      "en": "Powerball (South Africa)", "hr": "Powerball (Južna Afrika)", "de": "Powerball (Südafrika)", "sl": "Powerball (Južna Afrika)", "cs": "Powerball (Jižní Afrika)", "da": "Powerball (Sydafrika)", "es": "Powerball (Sudáfrica)", "et": "Powerball (Lõuna-Aafrika)", "fi": "Powerball (Etelä-Afrikka)", "fr": "Powerball (Afrique du Sud)", "hu": "Powerball (Dél-afrikai Köztársaság)", "is": "Powerball (Suður-Afríka)", "it": "Powerball (Sudafrica)", "lt": "Powerball (Pietų Afrika)", "lv": "Powerball (Dienvidāfrika)", "nb": "Powerball (Sør-Afrika)", "nl": "Powerball (Zuid-Afrika)", "pl": "Powerball (RPA)", "pt": "Powerball (África do Sul)", "sk": "Powerball (Južná Afrika)", "sv": "Powerball (Sydafrika)", "el": "Powerball (Νότια Αφρική)"
     },
     "source": "LE",
     "ordinal": 45
