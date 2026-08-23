@@ -2,7 +2,6 @@
   {
     "id": "EUROJACKPOT",
     "countries": ["CROATIA", "CZECHIA", "DENMARK", "ESTONIA", "FINLAND", "GERMANY", "GREECE", "HUNGARY", "ICELAND", "ITALY", "LATVIA", "LITHUANIA", "NETHERLANDS", "NORWAY", "POLAND", "SLOVAKIA", "SLOVENIA", "SPAIN", "SWEDEN", "BELGIUM"],
-    "canBetOnIt": false,
     "mainNumberRangeStart": 1,
     "mainNumberRangeEnd": 50,
     "mainNumberCount": 5,
@@ -26,7 +25,6 @@
   {
     "id": "LOTO_7",
     "countries": ["CROATIA"],
-    "canBetOnIt": false,
     "mainNumberRangeStart": 1,
     "mainNumberRangeEnd": 35,
     "mainNumberCount": 7,
@@ -50,7 +48,6 @@
   {
     "id": "LOTO_6",
     "countries": ["CROATIA"],
-    "canBetOnIt": false,
     "mainNumberRangeStart": 1,
     "mainNumberRangeEnd": 45,
     "mainNumberCount": 6,
@@ -74,7 +71,6 @@
   {
     "id": "SVE_ILI_NISTA",
     "countries": ["CROATIA"],
-    "canBetOnIt": false,
     "mainNumberRangeStart": 1,
     "mainNumberRangeEnd": 22,
     "mainNumberCount": 11,
@@ -98,7 +94,6 @@
   {
     "id": "EUROMILLIONS",
     "countries": ["AUSTRIA", "BELGIUM", "FRANCE", "IRELAND", "LUXEMBOURG", "PORTUGAL", "SPAIN", "SWITZERLAND"],
-    "canBetOnIt": true,
     "mainNumberRangeStart": 1,
     "mainNumberRangeEnd": 50,
     "mainNumberCount": 5,
@@ -122,7 +117,6 @@
   {
     "id": "VIKINGLOTTO",
     "countries": ["DENMARK", "ESTONIA", "FINLAND", "ICELAND", "LATVIA", "LITHUANIA", "NORWAY", "SLOVENIA", "SWEDEN"],
-    "canBetOnIt": true,
     "mainNumberRangeStart": 1,
     "mainNumberRangeEnd": 48,
     "mainNumberCount": 6,
@@ -146,7 +140,6 @@
   {
     "id": "SUPERENALOTTO",
     "countries": ["ITALY"],
-    "canBetOnIt": false,
     "mainNumberRangeStart": 1,
     "mainNumberRangeEnd": 90,
     "mainNumberCount": 6,
@@ -170,7 +163,6 @@
   {
     "id": "LOTTO_GERMANY",
     "countries": ["GERMANY"],
-    "canBetOnIt": true,
     "mainNumberRangeStart": 1,
     "mainNumberRangeEnd": 49,
     "mainNumberCount": 6,
@@ -194,7 +186,6 @@
   {
     "id": "LOTO_FRANCE",
     "countries": ["FRANCE"],
-    "canBetOnIt": true,
     "mainNumberRangeStart": 1,
     "mainNumberRangeEnd": 49,
     "mainNumberCount": 5,
@@ -218,7 +209,6 @@
   {
     "id": "EL_GORDO",
     "countries": ["SPAIN"],
-    "canBetOnIt": true,
     "mainNumberRangeStart": 1,
     "mainNumberRangeEnd": 54,
     "mainNumberCount": 5,
@@ -242,7 +232,6 @@
   {
     "id": "LOTO_SLOVENIA",
     "countries": ["SLOVENIA"],
-    "canBetOnIt": true,
     "mainNumberRangeStart": 1,
     "mainNumberRangeEnd": 44,
     "mainNumberCount": 6,
@@ -266,7 +255,6 @@
   {
     "id": "POWERBALL_US",
     "countries": ["USA"],
-    "canBetOnIt": true,
     "mainNumberRangeStart": 1,
     "mainNumberRangeEnd": 69,
     "mainNumberCount": 5,
@@ -290,7 +278,6 @@
   {
     "id": "MEGAMILLIONS_US",
     "countries": ["USA"],
-    "canBetOnIt": true,
     "mainNumberRangeStart": 1,
     "mainNumberRangeEnd": 70,
     "mainNumberCount": 5,
@@ -314,7 +301,6 @@
   {
     "id": "UK_LOTTO",
     "countries": ["UK"],
-    "canBetOnIt": true,
     "mainNumberRangeStart": 1,
     "mainNumberRangeEnd": 59,
     "mainNumberCount": 6,
@@ -338,7 +324,6 @@
   {
     "id": "GREECE_LOTTO",
     "countries": ["GREECE"],
-    "canBetOnIt": false,
     "mainNumberRangeStart": 1,
     "mainNumberRangeEnd": 49,
     "mainNumberCount": 6,
@@ -362,7 +347,6 @@
   {
     "id": "LOTTO_BELGIUM",
     "countries": ["BELGIUM"],
-    "canBetOnIt": false,
     "mainNumberRangeStart": 1,
     "mainNumberRangeEnd": 45,
     "mainNumberCount": 6,
@@ -386,7 +370,6 @@
   {
     "id": "OTOSLOTTO_HUNGARY",
     "countries": ["HUNGARY"],
-    "canBetOnIt": true,
     "mainNumberRangeStart": 1,
     "mainNumberRangeEnd": 90,
     "mainNumberCount": 5,
@@ -410,7 +393,6 @@
   {
     "id": "LOTTO_ICELAND",
     "countries": ["ICELAND"],
-    "canBetOnIt": false,
     "mainNumberRangeStart": 1,
     "mainNumberRangeEnd": 40,
     "mainNumberCount": 5,
@@ -434,7 +416,6 @@
   {
     "id": "LATLOTO_LATVIA",
     "countries": ["LATVIA"],
-    "canBetOnIt": false,
     "mainNumberRangeStart": 1,
     "mainNumberRangeEnd": 35,
     "mainNumberCount": 5,
@@ -458,7 +439,6 @@
   {
     "id": "HIGH5_LUXEMBOURG",
     "countries": ["LUXEMBOURG"],
-    "canBetOnIt": false,
     "mainNumberRangeStart": 1,
     "mainNumberRangeEnd": 35,
     "mainNumberCount": 5,
@@ -482,7 +462,6 @@
   {
     "id": "LOTTO_NETHERLANDS",
     "countries": ["NETHERLANDS"],
-    "canBetOnIt": false,
     "mainNumberRangeStart": 1,
     "mainNumberRangeEnd": 45,
     "mainNumberCount": 6,
@@ -506,7 +485,6 @@
   {
     "id": "TOTOLOTO_PORTUGAL",
     "countries": ["PORTUGAL"],
-    "canBetOnIt": false,
     "mainNumberRangeStart": 1,
     "mainNumberRangeEnd": 49,
     "mainNumberCount": 5,
@@ -530,7 +508,6 @@
   {
     "id": "LOTO_SLOVAKIA",
     "countries": ["SLOVAKIA"],
-    "canBetOnIt": false,
     "mainNumberRangeStart": 1,
     "mainNumberRangeEnd": 49,
     "mainNumberCount": 6,
@@ -554,7 +531,6 @@
   {
     "id": "LOTTO_SWEDEN",
     "countries": ["SWEDEN"],
-    "canBetOnIt": false,
     "mainNumberRangeStart": 1,
     "mainNumberRangeEnd": 35,
     "mainNumberCount": 7,
@@ -578,7 +554,6 @@
   {
     "id": "LOTTO_SWITZERLAND",
     "countries": ["SWITZERLAND"],
-    "canBetOnIt": true,
     "mainNumberRangeStart": 1,
     "mainNumberRangeEnd": 42,
     "mainNumberCount": 6,
@@ -602,7 +577,6 @@
   {
     "id": "LOTTO_AUSTRIA",
     "countries": ["AUSTRIA"],
-    "canBetOnIt": true,
     "mainNumberRangeStart": 1,
     "mainNumberRangeEnd": 45,
     "mainNumberCount": 6,
@@ -626,7 +600,6 @@
   {
     "id": "LOTTO_DENMARK",
     "countries": ["DENMARK"],
-    "canBetOnIt": true,
     "mainNumberRangeStart": 1,
     "mainNumberRangeEnd": 36,
     "mainNumberCount": 7,
@@ -650,7 +623,6 @@
   {
     "id": "LOTTO_FINLAND",
     "countries": ["FINLAND"],
-    "canBetOnIt": false,
     "mainNumberRangeStart": 1,
     "mainNumberRangeEnd": 40,
     "mainNumberCount": 7,
@@ -674,7 +646,6 @@
   {
     "id": "LOTTO_IRELAND",
     "countries": ["IRELAND"],
-    "canBetOnIt": true,
     "mainNumberRangeStart": 1,
     "mainNumberRangeEnd": 47,
     "mainNumberCount": 6,
@@ -698,7 +669,6 @@
   {
     "id": "LOTO_LITHUANIA",
     "countries": ["LITHUANIA"],
-    "canBetOnIt": false,
     "mainNumberRangeStart": 1,
     "mainNumberRangeEnd": 30,
     "mainNumberCount": 6,
@@ -722,7 +692,6 @@
   {
     "id": "PRIMITIVA_SPAIN",
     "countries": ["SPAIN"],
-    "canBetOnIt": true,
     "mainNumberRangeStart": 1,
     "mainNumberRangeEnd": 49,
     "mainNumberCount": 6,
@@ -746,7 +715,6 @@
   {
     "id": "OZ_LOTTO_AUSTRALIA",
     "countries": ["AUSTRALIA"],
-    "canBetOnIt": true,
     "mainNumberRangeStart": 1,
     "mainNumberRangeEnd": 47,
     "mainNumberCount": 7,
@@ -770,7 +738,6 @@
   {
     "id": "POWERBALL_AUSTRALIA",
     "countries": ["AUSTRALIA"],
-    "canBetOnIt": false,
     "mainNumberRangeStart": 1,
     "mainNumberRangeEnd": 35,
     "mainNumberCount": 7,
@@ -794,7 +761,6 @@
   {
     "id": "MEGA_SENA_BRAZIL",
     "countries": ["BRAZIL"],
-    "canBetOnIt": false,
     "mainNumberRangeStart": 1,
     "mainNumberRangeEnd": 60,
     "mainNumberCount": 6,
@@ -818,7 +784,6 @@
   {
     "id": "SAYISAL_LOTO_TURKEY",
     "countries": ["TURKEY"],
-    "canBetOnIt": true,
     "mainNumberRangeStart": 1,
     "mainNumberRangeEnd": 90,
     "mainNumberCount": 6,
@@ -842,7 +807,6 @@
   {
     "id": "SUPER_LOTO_UKRAINE",
     "countries": ["UKRAINE"],
-    "canBetOnIt": false,
     "mainNumberRangeStart": 1,
     "mainNumberRangeEnd": 52,
     "mainNumberCount": 6,
@@ -866,7 +830,6 @@
   {
     "id": "GOSLOTO_5X50",
     "countries": ["RUSSIA"],
-    "canBetOnIt": false,
     "mainNumberRangeStart": 1,
     "mainNumberRangeEnd": 50,
     "mainNumberCount": 5,
@@ -890,7 +853,6 @@
   {
     "id": "SPORTKA",
     "countries": ["CZECHIA"],
-    "canBetOnIt": false,
     "mainNumberRangeStart": 1,
     "mainNumberRangeEnd": 49,
     "mainNumberCount": 6,
@@ -914,7 +876,6 @@
   {
     "id": "EUROMILIONY_CZ",
     "countries": ["CZECHIA"],
-    "canBetOnIt": false,
     "mainNumberRangeStart": 1,
     "mainNumberRangeEnd": 35,
     "mainNumberCount": 7,
@@ -938,7 +899,6 @@
   {
     "id": "EUROMILIONY_SK",
     "countries": ["SLOVAKIA"],
-    "canBetOnIt": false,
     "mainNumberRangeStart": 1,
     "mainNumberRangeEnd": 33,
     "mainNumberCount": 7,
@@ -962,7 +922,6 @@
   {
     "id": "LOTTO_649_CANADA",
     "countries": ["CANADA"],
-    "canBetOnIt": true,
     "mainNumberRangeStart": 1,
     "mainNumberRangeEnd": 49,
     "mainNumberCount": 6,
@@ -986,7 +945,6 @@
   {
     "id": "BC_49_CANADA",
     "countries": ["CANADA"],
-    "canBetOnIt": true,
     "mainNumberRangeStart": 1,
     "mainNumberRangeEnd": 49,
     "mainNumberCount": 6,
@@ -1010,7 +968,6 @@
   {
     "id": "QUEBEC_49_CANADA",
     "countries": ["CANADA"],
-    "canBetOnIt": true,
     "mainNumberRangeStart": 1,
     "mainNumberRangeEnd": 49,
     "mainNumberCount": 6,
@@ -1034,7 +991,6 @@
   {
     "id": "ATLANTIC_BUCKO_CANADA",
     "countries": ["CANADA"],
-    "canBetOnIt": true,
     "mainNumberRangeStart": 1,
     "mainNumberRangeEnd": 41,
     "mainNumberCount": 5,
@@ -1058,7 +1014,6 @@
   {
     "id": "LOTTO_SOUTH_AFRICA",
     "countries": ["SOUTH_AFRICA"],
-    "canBetOnIt": false,
     "mainNumberRangeStart": 1,
     "mainNumberRangeEnd": 52,
     "mainNumberCount": 6,
@@ -1082,7 +1037,6 @@
   {
     "id": "POWERBALL_SOUTH_AFRICA",
     "countries": ["SOUTH_AFRICA"],
-    "canBetOnIt": false,
     "mainNumberRangeStart": 1,
     "mainNumberRangeEnd": 50,
     "mainNumberCount": 5,
@@ -1106,7 +1060,6 @@
   {
     "id": "LOTTO_MAX_CANADA",
     "countries": ["CANADA"],
-    "canBetOnIt": false,
     "mainNumberRangeStart": 1,
     "mainNumberRangeEnd": 52,
     "mainNumberCount": 7,
@@ -1130,7 +1083,6 @@
   {
     "id": "LOTO_FACIL_BRAZIL",
     "countries": ["BRAZIL"],
-    "canBetOnIt": false,
     "mainNumberRangeStart": 1,
     "mainNumberRangeEnd": 25,
     "mainNumberCount": 15,
@@ -1154,7 +1106,6 @@
   {
     "id": "MARK_SIX_HK",
     "countries": ["HONG_KONG"],
-    "canBetOnIt": false,
     "mainNumberRangeStart": 1,
     "mainNumberRangeEnd": 49,
     "mainNumberCount": 6,
@@ -1178,7 +1129,6 @@
   {
     "id": "CHINA_UNION_LOTTO",
     "countries": ["CHINA"],
-    "canBetOnIt": false,
     "mainNumberRangeStart": 1,
     "mainNumberRangeEnd": 33,
     "mainNumberCount": 6,
